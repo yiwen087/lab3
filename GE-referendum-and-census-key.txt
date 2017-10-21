@@ -1,0 +1,53 @@
+Election and referendum data: KEY
+---------------------------------
+
+pano: 
+the Press Association's number for each constituency
+
+onscode: 
+the Office for National Statistics code
+
+panamelong: 
+the constituency name (according to the Press Association)
+
+region: 
+official government regions
+
+con15...snp15: 
+vote counts for the main parties at the 2015 election
+
+total15: 
+total votes at the 2015 election
+
+elec15: 
+the size of the registered electorate in 2015
+
+leave16sh: 
+the estimated % voting "Leave" in the 2016 EU referendum
+
+con17...snp17: 
+vote counts for the main parties at the 2017 election
+
+total17: 
+total votes at the 2017 election
+
+elec17: 
+the size of the registered electorate in 2017
+
+c11*: variables from the 2011 census
+-- % of population with a degree
+-- % of population with no qualifications
+-- % of population aged between 18 and 24
+-- % of population aged 65+
+-- % of population employed in the public sector
+-- % of population born in EU (outside UK)
+
+unemp15:
+the number of people registered as unemployed in 2015
+
+unemp17:
+the number of people registered as unemployed in 2017
+
+END
+
+
