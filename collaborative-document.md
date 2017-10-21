@@ -23,6 +23,10 @@ That's a photo that someone sent me recently, of a hill town in southern Italy.
 
 ### Donald
 
+![A duck](Donald-duckling.svg)
+
+Ducky text here.  Quack.
+
 ### Alex
 
 ### Alice
