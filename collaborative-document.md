@@ -23,7 +23,7 @@ That's a photo that someone sent me recently, of a hill town in southern Italy.
 
 ### Donald
 
-![A duck](Donald-duckling.svg)
+![A duck](Donald-duckling.svg =100x20)
 
 Ducky text here.  Quack. Quack.
 
