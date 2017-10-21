@@ -17,7 +17,7 @@ title: "ST344 Lab 3: A collaborative document"
 
 ### David
 
-![A nice picture](ferrazzano.jpg)
+![A lovely picture](ferrazzano.jpg)
 
 That's a photo that someone sent me recently, of a hill town in southern Italy.
 
