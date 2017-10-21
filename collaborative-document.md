@@ -25,7 +25,7 @@ That's a photo that someone sent me recently, of a hill town in southern Italy.
 
 ![A duck](Donald-duckling.svg)
 
-Ducky text here.  Quack.
+Ducky text here.  Quack. Quack.
 
 ### Alex
 
