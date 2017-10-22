@@ -8,7 +8,7 @@ title: "ST344 Lab 3: A collaborative document"
 
 - David Firth
 
-(add your name as a new bullet-point to the above list when you have contributed your two files)
+(add your name as a new bullet-point to the above list)
 
 ## The contributions
 
