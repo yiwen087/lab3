@@ -18,7 +18,7 @@ title: "ST344 Lab 3: A collaborative document"
 
 ![David's graph of West Midlands constituencies](DavidF-plot.svg)
 
-This plot shows, for all constituencies in the West Midlands region, the relationship between electoral change (between Conservative and Labour parties, at the 2015 and 2017 General Elections) and the percentage of people aged 18--24 year according to the 2011 census.
+This plot shows, for all constituencies in the West Midlands region, the relationship between electoral change (between Conservative and Labour parties, at the 2015 and 2017 General Elections) and the percentage of people aged 18-24 according to the 2011 census.
 
 Perhaps surprisingly, gains for Labour (over the Conservatives) appear to have been largest in those West Midlands seats where there were fewest young people resident according to the census.
 
