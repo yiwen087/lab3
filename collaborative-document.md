@@ -22,7 +22,7 @@ This plot shows, for all constituencies in the West Midlands region, the relatio
 
 Perhaps surprisingly, gains for Labour (over the Conservatives) appear to have been largest in those West Midlands seats where there were fewest young people resident according to the census.
 
-The majority of West Midlands constituencies show some gain for Labour over Conservative.  The *Staffordshire South*, highlighted in red in the plot, appears to be fairly typical as far as these two variables are concerned.
+The majority of West Midlands constituencies show some gain for Labour over Conservative.  The *Staffordshire South* constituency, highlighted in red in the plot, appears to be fairly typical as far as these two variables are concerned.
 
 **The above is just an illustrative example of the sort of graph and text you might include in this file.  I fully expect that some of the graphs you'll produce will be more interesting than this one!**
 
