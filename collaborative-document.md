@@ -2,7 +2,7 @@
 title: "ST344 Lab 3: A collaborative document"
 ---
 
-# A Set of Contributed Graphs with brief Commentary
+# A Set of Contributed Graphs with Brief Commentary
 
 ## Authors
 
