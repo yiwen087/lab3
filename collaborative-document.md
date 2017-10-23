@@ -30,9 +30,9 @@ The majority of West Midlands constituencies show some gain for Labour over Cons
 ### Nayia
 57 Birmingham Edgbaston
 
+![Nayia's graph (also) of West Midlands constituencies](NayiaC-plot.svg)
 
-
-Sam plot as above but now the *Birmingham* constituency is highlighted in red in the plot. 
+Same plot as above but now the *Birmingham* constituency is highlighted in red in the plot. 
 
 The *Birmingham* constituency is similar to the majority of constituencies with regards to the Relative LabCon vote ratios between 2015 and 2017, as it shows some gain for Labour over Conservative. However, it differs from the majority of constituencies with regards to the percentage of people aged 18-24 according to the 2011 census in the West Midlands, as it is one of the 4 consituencies with the largest percentage of young people (above 15%). 
 
