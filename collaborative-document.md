@@ -28,6 +28,7 @@ The majority of West Midlands constituencies show some gain for Labour over Cons
 **The above is just an illustrative example of the sort of graph and text you might include in this file.  I fully expect that some of the graphs you'll produce will be more interesting than this one!**
 
 ### Nayia
+57       Birmingham Edgbaston
 
 ![Nayia's graph (also) of West Midlands constituencies](NayiaC-plot.svg)
 
