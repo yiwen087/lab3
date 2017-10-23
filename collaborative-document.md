@@ -8,6 +8,7 @@ title: "ST344 Lab 3: A collaborative document"
 
 - David Firth
 - Nayia Constantinou
+- Jamie Wreathall
 
 (add your name as a new bullet-point to the above list)
 
