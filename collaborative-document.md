@@ -7,6 +7,7 @@ title: "ST344 Lab 3: A collaborative document"
 ## Authors
 
 - David Firth
+- Nayia Constantinou
 
 (add your name as a new bullet-point to the above list)
 
@@ -25,6 +26,15 @@ Perhaps surprisingly, gains for Labour (over the Conservatives) appear to have b
 The majority of West Midlands constituencies show some gain for Labour over Conservative.  The *Staffordshire South* constituency, highlighted in red in the plot, appears to be fairly typical as far as these two variables are concerned.
 
 **The above is just an illustrative example of the sort of graph and text you might include in this file.  I fully expect that some of the graphs you'll produce will be more interesting than this one!**
+
+### Nayia
+57 Birmingham Edgbaston
+
+![Nayia's graph (also) of West Midlands constituencies](NayiaC-plot.svg)
+
+Same plot as Prof. Firth's above but now the *Birmingham Edgbaston* constituency is highlighted in red in the plot. 
+
+The *Birmingham Edgbaston* constituency is similar to the majority of constituencies with regards to the Relative LabCon vote ratios between 2015 and 2017, as it shows some gain for Labour over Conservative. However, it differs from the majority of constituencies with regards to the percentage of people aged 18-24 according to the 2011 census in the West Midlands, as it is one of the 4 consituencies with the largest percentage of young people (above 15%). 
 
 ### Alex
 
