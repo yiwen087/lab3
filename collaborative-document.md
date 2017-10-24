@@ -8,6 +8,7 @@ title: "ST344 Lab 3: A collaborative document"
 
 - David Firth
 - Nayia Constantinou
+- Florence Welsh
 
 (add your name as a new bullet-point to the above list)
 
@@ -79,6 +80,13 @@ The *Birmingham Edgbaston* constituency is similar to the majority of constituen
 ### Florence
 
  237             Enfield North
+ 
+ ![Florences's graph of London constituencies](Florence-plot.svg)
+  
+This plot shows the relationship between the estimated percentage of voters voting to leave in the 2016 EU election and the percentage of the population with a degree in the 2011 census, for the London region with Enfield North highlighted in red. 
+  
+A negative correlation is shown in the plot, with the estimated percent of the population that voted leave being highest in the constituencies with the lowest percentage of the population with a degree. Moreover, the lower estimated percentages voting leave occurs in the constituencies with the highest percentage of the population with a degree. The Enfield North constituency has a lower percentage of the population with a degree than the majority of the London constituencies. With an estimation of just under 50% of the population voting to leave, Enfield North fits with the overall trend of the plot.
+
 
 ### Isaac
 
