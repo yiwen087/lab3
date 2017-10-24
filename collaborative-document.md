@@ -8,6 +8,7 @@ title: "ST344 Lab 3: A collaborative document"
 
 - David Firth
 - Nayia Constantinou
+- Kevin Choi
 
 (add your name as a new bullet-point to the above list)
 
@@ -95,6 +96,14 @@ The *Birmingham Edgbaston* constituency is similar to the majority of constituen
 ### Kevin
 
  293 Harrogate & Knaresborough
+
+![Kevin's graph of Yorkshire and the Humber constituencies](KevinC-plot_2.svg)
+
+It can be observed that in all but two constituencies (Rotherham and Wentworth & Dearne) the labour to lib dem voter ratio has increased. In particular, Rotheram and Wentworth & Dearne both have very small lib dem vote share compared to labour's vote share.
+
+Interestingly, there is a constituency, Bradford East, where the relative vote ratio is up to 22.4. Looking carefully at the data, this is mainly because the Lib Dems only retained 6.89% of their 2015 votes (a drop of 27.7 percentage points in absolute terms), whilst labour had a gain of 54.5% of their 2015 votes (an increase of 18.7 percentage points in absolute terms). This extraordinary change may be due to Lib Dem's 2015 candidate decided to stand as an Independent, retaining a 7.8% vote share in 2017.
+
+We can observe that Harrogate fits well into the pattern for the relative vote ratio, with a value of 1.86. Although in this constituency, there was a gain in Lib Dem votes, there had been an even larger gain for labour, in both relative and absolute terms. Moreover, Harrogate was the only constituency in the whole region where the Lib Dem vote was higher than the Labour vote in 2017! This compared to 2015 when the Lib Dems had two seats in this region - Greg Mulholland in Leeds North West and Nick Clegg in Sheffield Hallam.
 
 ### Kishan
 
