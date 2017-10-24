@@ -8,8 +8,7 @@ title: "ST344 Lab 3: A collaborative document"
 
 - David Firth
 - Nayia Constantinou
-
-(add your name as a new bullet-point to the above list)
+- Kishan Radia
 
 ## The contributions
 
@@ -99,6 +98,14 @@ The *Birmingham Edgbaston* constituency is similar to the majority of constituen
 ### Kishan
 
   38                 Battersea
+
+![Kishan's graph of the London constituencies.](KishanRadia-plot.png)
+
+This plot shows, for all constituencies in the "London" region, the relationship between electorate size and the total number of votes counted. In particular, we are looking at the changes between the 2015 and 2017 general elections.
+
+As expected, for all constituencies in which the registered electorate size increased, the total number of votes at election did as well. However in over a quarter of the "London" constituencies, where the electorate size decreased, we also saw an increase in the total number of votes counted (there were no "London" constituencies where the total votes decreased). The most extreme case showed an increase of votes by over 10%, alongside a decrease of electorate size by over 10%.
+
+As for the Battersea case, highlighted in red in the plot, this constituency appears to be fairly typical as far as these two variables are concerned.
 
 ### Lewis
 
