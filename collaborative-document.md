@@ -8,6 +8,7 @@ title: "ST344 Lab 3: A collaborative document"
 
 - David Firth
 - Nayia Constantinou
+- Matt Davies
 
 (add your name as a new bullet-point to the above list)
 
@@ -107,6 +108,14 @@ The *Birmingham Edgbaston* constituency is similar to the majority of constituen
 ### Matt D
 
  591                 Wakefield
+
+![Matt's graph of Yorkshire & the Humber constituencies](MattD-plot.svg)
+
+The graph shows, for all constituencies in Yorkshire and the Humber region, there is a positive relationship between the percentage of leave Brexit votes in 2016 and the percentage of UKIP voters in the general election of 2015. Wakefield specifically also follows this trend.
+
+The likely reason for this relationship is that UKIP were extremely pro-Brexit, meaning that people that voted for them will likely have a similar opinion and will want to leave the EU.
+
+It also appears that the majority of constituencies in Yorkshire and the Humber region were in favour for leaving the EU since they have more than 50% of voters voting leave. However, the percentage of people voting UKIP is extremely small, the most being a little over 0.3%. This is likely due to few people agreeing with the other extremist views despite the high percentage of pro-Brexit voters within the region.
 
 ### Matthew J
 
