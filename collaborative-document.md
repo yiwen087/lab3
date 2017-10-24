@@ -7,6 +7,7 @@ title: "ST344 Lab 3: A collaborative document"
 ## Authors
 
 - David Firth
+- Alice Saxton
 
 (add your name as a new bullet-point to the above list)
 
@@ -33,6 +34,14 @@ The majority of West Midlands constituencies show some gain for Labour over Cons
 ### Alice
 
  289      Hampshire North West
+ 
+ ![Alice's graph of South East](AliceSaxton-plot.svg)
+ 
+ This plot shows the relationship between the increase of each party's percentage of votes for the 2015 and 2017 General Elections, against the estimated percentage of 'Leave' votes in the 2016 EU Referendum. The lines that have been plotted are based on all of the constituencies in the South East. It also highlights the data points that represent the Hampshire North West data for this relationship.
+
+Labour is the only party to not see a decrease in vote percentage across all constituencies, and has the largest increase at all points. However, when considering Hampshire North West, there is not as large an increase as the plot would suggest for a constituency with a Leave percentage of that size. Looking at the plot, a possible explanation for this could be that both the percentages for UKIP and the Lib Dems have not decreased as much as would be expected.
+
+Another interesting pattern in this plot is the almost symmetric shapes of the Conservative and UKIP lines which becomes more pronounced where the Leave percentage is higher. This could suggest that lots of people who voted UKIP in 2015 and supported the outcome of the EU Referendum, then transferred their support to the Conservative Party in the 2017 Election.
 
 ### Anthony
 
