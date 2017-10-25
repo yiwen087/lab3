@@ -16,6 +16,7 @@ title: "ST344 Lab 3: A collaborative document"
 - Florence Welsh
 - Matt Davies
 - Kishan Radia
+- Anushka Katailiha
 
 (add your name as a new bullet-point to the above list)
 
@@ -75,6 +76,21 @@ Another interesting pattern in this plot is the almost symmetric shapes of the C
 ### Anushka
 
  309  Hertfordshire North East
+ 
+ ![Anushka's Graph of Eastern Constituencies](AKatailiha-Plot.png)
+ 
+ The graph above compares the number of people registered as unemployed in 2017 against the proportion of the population without a qualification in 2011, highlighting Hertfordshire North East's position amongst the rest of the Eastern region. 
+
+An obvious observation is that the Conservative party proved to be quite popular in the 2017 General Election in the Eastern region -  all but 8 constituencies voted mainly for the Conservative party. Like the majority of the constituencies in our region, Hertfordshire North East mainly voted for the Conservatives and has relatively low levels of unemployment and also a low proportion of people with no qualifications.
+
+Since we have little data for constituencies that mainly voted for Labour and Liberal Democrats, we will focus on constituencies that casted majority of their votes in favour of the Conservatives to draw our conclusions from. 
+
+Firstly, we notice that there is somewhat a positive correlation between the proportion of people that have no qualifications and the number of unemployed. This correlation seems plausible since, qualifications to some extent, impact employability of a person.  
+
+Another observation that can be made is that constituencies with lower levels of unemployment were more likely to vote for Conservatives. This is deduced from the fact that there is a cluster of points in the bottom left corner of the top graph. Although there seems to be a correlation between these two variables, we cannot determine whether this implies causation; further analysis would be required to confirm this.
+
+However, we encounter a problem with conclusion drawn above - the graph indicates the number of people that were registered as unemployed in 2017, not the proportion of the population that was unemployed in 2017. Therefore, a constituency could have a small number of unemployed but that could be a large proportion of its constituency population, implying that the level of unemployment, in real terms is quite high, and vice versa.
+
  
 ### Billy
 
