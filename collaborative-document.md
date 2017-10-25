@@ -11,6 +11,7 @@ title: "ST344 Lab 3: A collaborative document"
 - Nayia Constantinou
 - Jamie Wreathall
 - Tina Goldarreh
+- Anthony Shaffu
 - Kevin Choi
 - Alice Saxton
 - Alex Flint
@@ -20,6 +21,7 @@ title: "ST344 Lab 3: A collaborative document"
 - Miraj Shah
 - Anushka Katailiha
 - Declan Wardell
+- Matthew James
 - Isaac Nelson
 
 (add your name as a new bullet-point to the above list)
@@ -76,6 +78,12 @@ Another interesting pattern in this plot is the almost symmetric shapes of the C
 ### Anthony
 
  631  Wolverhampton South East
+ 
+ ![Anthony's Graph of 631 ~ Wolverhampton South East](AnthonyS-plot.svg)
+ 
+ As can be seen from the graph and the correlation value of 0.6142848, there is a fairly strong positive correlation between the variables ConRatio and Leave. In other words, in the constituencies with the larger percentage of “Leave” votes, there was a larger swing of votes to the Conservatives from 2015 to 2017.
+ 
+Wolverhampton South East is among the higher end of the percentage of “Leave” votes and Conservative swing, but it still seems to follow the trend that the other West Midlands constituencies exhibit.
 
 ### Anushka
 
@@ -210,6 +218,16 @@ It also appears that the majority of constituencies in Yorkshire and the Humber 
 ### Matthew J
 
  482                 Rotherham
+ ![MatthewJ's graph of Yorkshire & the Humber constituencies](MatthewJ-plot.svg)
+ 
+ This plot shows the relationship between the percentage of votes in a constituency to leave the European Union, against both the percentage of voters *who have a degree*, and the percentage of voters *with no qualifications* for **Yorkshire and the Humber.**
+
+Overall Yorkshire residents were more likely to vote to leave the EU, since over two-thirds of constituencies delivered a result of above 51.9%, the national average. **Rotherham** follows to this trend, and its pro-Brexit stance is even significant among the rest of Yorkshire: with leave votes counting for **68.3%** of the ballot.
+
+There appears to be a strong positive relation between the average level of education and training in a constituency, and the decision to remain the EU. Leave votes count for a small proportion of the total in areas where the proportion of people with degrees is higher than the regional average, and the proportion of those with no qualifications is lower.
+
+It is important to note that the census used is 5 years old by time of Brexit vote, and the level of qualifications and degrees may have changed. Additionally, the Brexit vote percentages themselves have been esteemed as the votes were not cast on a constituency level.
+ 
 
 ### Matthew N
 
