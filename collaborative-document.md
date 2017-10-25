@@ -16,6 +16,8 @@ title: "ST344 Lab 3: A collaborative document"
 - Florence Welsh
 - Matt Davies
 - Kishan Radia
+- Miraj Shah
+- Anushka Katailiha
 - Declan Wardell
 
 (add your name as a new bullet-point to the above list)
@@ -76,6 +78,21 @@ Another interesting pattern in this plot is the almost symmetric shapes of the C
 ### Anushka
 
  309  Hertfordshire North East
+ 
+ ![Anushka's Graph of Eastern Constituencies](AKatailiha-Plot.png)
+ 
+ The graph above compares the number of people registered as unemployed in 2017 against the proportion of the population without a qualification in 2011, highlighting Hertfordshire North East's position amongst the rest of the Eastern region. 
+
+An obvious observation is that the Conservative party proved to be quite popular in the 2017 General Election in the Eastern region -  all but 8 constituencies voted mainly for the Conservative party. Like the majority of the constituencies in our region, Hertfordshire North East mainly voted for the Conservatives and has relatively low levels of unemployment and also a low proportion of people with no qualifications.
+
+Since we have little data for constituencies that mainly voted for Labour and Liberal Democrats, we will focus on constituencies that casted majority of their votes in favour of the Conservatives to draw our conclusions from. 
+
+Firstly, we notice that there is somewhat a positive correlation between the proportion of people that have no qualifications and the number of unemployed. This correlation seems plausible since, qualifications to some extent, impact employability of a person.  
+
+Another observation that can be made is that constituencies with lower levels of unemployment were more likely to vote for Conservatives. This is deduced from the fact that there is a cluster of points in the bottom left corner of the top graph. Although there seems to be a correlation between these two variables, we cannot determine whether this implies causation; further analysis would be required to confirm this.
+
+However, we encounter a problem with conclusion drawn above - the graph indicates the number of people that were registered as unemployed in 2017, not the proportion of the population that was unemployed in 2017. Therefore, a constituency could have a small number of unemployed but that could be a large proportion of its constituency population, implying that the level of unemployment, in real terms is quite high, and vice versa.
+
  
 ### Billy
 
@@ -195,6 +212,16 @@ It also appears that the majority of constituencies in Yorkshire and the Humber 
 ### Miraj
 
  392                   Meriden
+ 
+ ![Miraj's graph of West Midlands constituencies](MirajS-plot.svg)
+ 
+The plot above shows the the relationship between the estimated percentage of people who voted Leave in the 2016 EU Referendum and the percentage of each constituencies' total votes, that were in favour of UKIP in the 2015 General Election, for all constituencies in the West Midlands region. Additionally, the size of each point in the plot corresponds to the percentage of each constituencies' total votes that were in favour of UKIP in the 2017 General Election.
+
+Since UKIP fought hard to advertise the advantages of Brexit, it's unsurprising to see positive correlation between voting for UKIP and voting to leave the EU, since many UKIP supporters in 2015 would have shared their party's view towards leaving the EU and voted accordingly. Meriden, highlighted in red in the plot, appears to follow the similar trend represented by other West Midlands constituencies.
+
+Looking at the size of each point allows us to gauge how the popularity of UKIP has changed from 2015 to 2017. At first glance, it would be easy to suggest that in many constituencies, UKIP gained no votes at all, due to the percentage of total votes equalling 0%. However, it is important to consider how many of these constituencies actually had a UKIP candidate standing for a seat in Parliament. If every one of these constituencies had an UKIP candidate, then the lack of votes for UKIP clearly shows a decline in popularity for the party. On the other hand, if there were no candidates representing UKIP in these constituencies, then the percentage of votes in favour for UKIP does not give an accurate representation of the party's popularity with the public.
+
+Assuming that all constituencies with 0% of votes in favour of UKIP, are constituencies where there was no candidate running on behalf of UKIP, it is interesting to see the decline in the party's representation within constituencies - which may be due to the public's opinion of UKIP. UKIP played a major role in the run up to the EU referendum, which may have increased support and caused a rise in the number of candidates representing UKIP in the 2015 election. However, once the Leave result was achieved, UKIP supporters may have then switched their support towards other parties, reducing the number of candidates running on behalf of UKIP in the 2017 election.
 
 ### Namik
 
