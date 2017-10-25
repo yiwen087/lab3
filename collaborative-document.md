@@ -203,9 +203,9 @@ It also appears that the majority of constituencies in Yorkshire and the Humber 
  482                 Rotherham
  ![MatthewJ's graph of Yorkshire & the Humber constituencies](MatthewJ-plot.svg)
  
- This plot shows the relationship between the percentage of votes in a constituency to leave the European Union, against both the percentage of voters <span style="color:green">who have a degree</span>, and the percentage of voters <span style="color:red">with no qualifications</span> for Yorkshire and the Humber.
+ This plot shows the relationship between the percentage of votes in a constituency to leave the European Union, against both the percentage of voters *who have a degree*, and the percentage of voters *with no qualifications* for **Yorkshire and the Humber.**
 
-Overall Yorkshire residents were more likely to vote to leave the EU, since over two-thirds of constituencies delivered a result of above 51.9%, the national average. Rotherham follows to this trend, and its pro-Brexit stance is even significant among the rest of Yorkshire: with leave votes counting for 68.3% of the ballot.
+Overall Yorkshire residents were more likely to vote to leave the EU, since over two-thirds of constituencies delivered a result of above 51.9%, the national average. **Rotherham** follows to this trend, and its pro-Brexit stance is even significant among the rest of Yorkshire: with leave votes counting for **68.3%** of the ballot.
 
 There appears to be a strong positive relation between the average level of education and training in a constituency, and the decision to remain the EU. Leave votes count for a small proportion of the total in areas where the proportion of people with degrees is higher than the regional average, and the proportion of those with no qualifications is lower.
 
