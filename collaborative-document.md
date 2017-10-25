@@ -8,6 +8,7 @@ title: "ST344 Lab 3: A collaborative document"
 
 - David Firth
 - Nayia Constantinou
+- Zsigmond Hammer
 
 (add your name as a new bullet-point to the above list)
 
@@ -151,3 +152,5 @@ The *Birmingham Edgbaston* constituency is similar to the majority of constituen
 ### Zsigmond
 
  644               Wyre Forest
+
+![Zsigmond's graph of West Midlands Constituencies](zsigmondPlot1.svg)
