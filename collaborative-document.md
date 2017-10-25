@@ -7,8 +7,10 @@ title: "ST344 Lab 3: A collaborative document"
 ## Authors
 
 - David Firth
+- Tina Goldarreh
 - Nayia Constantinou
 - Jamie Wreathall
+- Tina Goldarreh
 
 (add your name as a new bullet-point to the above list)
 
@@ -150,6 +152,16 @@ Nottingham East had a very high number of people aged 18-24 compared to other co
 ### Tina
 
  136                 Charnwood
+ 
+ 
+![Tina's graph of East Midlands constituencies](TinaG-plot.svg)
+
+This is a plot of the East Midlands constituencies showing the relationship between electoral change, (between Conservative and Labour party; a higher value on the y-axis corresponds to gains for Labour relative to the Conservatives), during the 2015 and 2017 general elections and the percentage of the electorate who voted in each constituency for Brexit in the 2016 referendum. 
+
+In the East Midlands, as the number of Brexiteers increases, Labour loses seats to the Conservatives. This is not surprising since the Labour party campaigned heavily to remain in the EU. 
+
+In most of the East Midland constituencies Labour gained against Conservatives. *Charnwood*, highlighted in orange, seems to be a fairly typical constituency based on the data provided on these two variables.
+
 
 ### Weiyi
 
