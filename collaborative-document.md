@@ -8,6 +8,7 @@ title: "ST344 Lab 3: A collaborative document"
 
 - David Firth
 - Nayia Constantinou
+- Jamie Wreathall
 
 (add your name as a new bullet-point to the above list)
 
@@ -91,6 +92,12 @@ The *Birmingham Edgbaston* constituency is similar to the majority of constituen
 ### Jamie
 
  432           Nottingham East
+ 
+ ![Jamie's graph of East Midlands constituencies](JamieW-plot.svg)
+ 
+ Young voter turnout is often very low in elections, so it is not surprising to see that there is a positive correlation between non-voting and there being a lot of young people in a constituency.
+
+Nottingham East had a very high number of people aged 18-24 compared to other constituencies in the 2011 census and also had a very high percentage of non-voters in the 2015 General Election.
 
 ### Kevin
 
