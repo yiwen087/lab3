@@ -24,6 +24,7 @@ title: "ST344 Lab 3: A collaborative document"
 - Matthew James
 - Isaac Nelson
 - Dan Simpson
+- Christopher Geon Young Park
 
 (add your name as a new bullet-point to the above list)
 
@@ -112,6 +113,12 @@ However, we encounter a problem with conclusion drawn above - the graph indicate
 ### Christopher
 
  137       Chatham & Aylesford
+ 
+ ![Christopher's graph of South East constituencies](ChristopherP-plot.png)
+ 
+ My graph was created to demonstrate the relationship between the percentage of registered voters who turned up to vote, with the percentage of people with a degree. Each point on the graph represents a location with the South East constituency.
+ 
+ A positive correlation can be seen between the two variables. If we assume on average, individuals with degrees are more intellegent than those who do not, we can say that the educated are more likely to vote in elections. Most of the individual locations fall under the range of the shaded area adjacent to the curve of best fit. However, do note that there are still a few places on the outskirts, and this suggests that the correlation might be positive, but not strongly positive.
  
 ### Dan
 
