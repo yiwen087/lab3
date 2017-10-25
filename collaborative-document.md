@@ -18,6 +18,7 @@ title: "ST344 Lab 3: A collaborative document"
 - Kishan Radia
 - Miraj Shah
 - Anushka Katailiha
+- Declan Wardell
 
 (add your name as a new bullet-point to the above list)
 
@@ -108,6 +109,16 @@ However, we encounter a problem with conclusion drawn above - the graph indicate
 ### Declan
 
  562                  Tamworth
+ 
+ ![Declan's graph of West Midlands constituencies](Declan_W_plot.svg)
+ 
+ My plot shows the relationship between the ratio of unemployment and the percentage of people with no qualifications. On the graph is also the winning parties for each constituency. Without this additional data there would not be much to be said about the data.
+ 
+ Purely by looking at the 'line of no change' and comparing between Labour and the Conservatives it is quite clear to see that we have differing observations. For the Conservatives the number of constituencies that have increased their number of unemployed people, is roughly equal to the number of constituencies that have decreased the number of unemployed. Whereas the Labour party's constituencies have reduced the number of unemployed people in most cases. So the graph shows that Labour were far better at reducing the number of unemployed people per constituency.
+ 
+We also can see that the 14 constituencies with the highest percentage of no qualifications all voted for Labour which shows another trend. This could be explained by Labour's slogan for the 2015 election: “Better Plan for a Better Future”, which may have swayed a few people towards a Labour vote.
+
+The region I looked at, Tamworth, was in fact the worst constituency in terms of ratios of unemployment. It has a fairly similar percentage of people who were unemployed as other constituencies so there must have been other reasons that caused this.
  
 ### Diana
 
