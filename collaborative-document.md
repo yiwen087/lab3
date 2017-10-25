@@ -241,7 +241,7 @@ It is important to note that the census used is 5 years old by time of Brexit vo
 
  392                   Meriden
  
- ![Miraj's graph of West Midlands constituencies](MirajS-plot.svg)
+ ![Miraj's graph of West Midlands constituencies](MirajS-plot.png)
  
 The plot above shows the the relationship between the estimated percentage of people who voted Leave in the 2016 EU Referendum and the percentage of each constituencies' total votes, that were in favour of UKIP in the 2015 General Election, for all constituencies in the West Midlands region. Additionally, the size of each point in the plot corresponds to the percentage of each constituencies' total votes that were in favour of UKIP in the 2017 General Election.
 
