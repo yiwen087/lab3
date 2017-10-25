@@ -10,6 +10,7 @@ title: "ST344 Lab 3: A collaborative document"
 - Nayia Constantinou
 - Jamie Wreathall
 - Tina Goldarreh
+- Anthony Shaffu
 - Kevin Choi
 - Alice Saxton
 - Alex Flint
@@ -19,6 +20,10 @@ title: "ST344 Lab 3: A collaborative document"
 - Miraj Shah
 - Anushka Katailiha
 - Declan Wardell
+- Matthew James
+- Isaac Nelson
+- Dan Simpson
+- Christopher Geon Young Park
 - Diana Ivanova
 
 (add your name as a new bullet-point to the above list)
@@ -75,6 +80,12 @@ Another interesting pattern in this plot is the almost symmetric shapes of the C
 ### Anthony
 
  631  Wolverhampton South East
+ 
+ ![Anthony's Graph of 631 ~ Wolverhampton South East](AnthonyS-plot.svg)
+ 
+ As can be seen from the graph and the correlation value of 0.6142848, there is a fairly strong positive correlation between the variables ConRatio and Leave. In other words, in the constituencies with the larger percentage of “Leave” votes, there was a larger swing of votes to the Conservatives from 2015 to 2017.
+ 
+Wolverhampton South East is among the higher end of the percentage of “Leave” votes and Conservative swing, but it still seems to follow the trend that the other West Midlands constituencies exhibit.
 
 ### Anushka
 
@@ -103,9 +114,23 @@ However, we encounter a problem with conclusion drawn above - the graph indicate
 
  137       Chatham & Aylesford
  
+ ![Christopher's graph of South East constituencies](ChristopherP-plot.png)
+ 
+ My graph was created to demonstrate the relationship between the percentage of registered voters who turned up to vote, with the percentage of people with a degree. Each point on the graph represents a location with the South East constituency.
+ 
+ A positive correlation can be seen between the two variables. If we assume on average, individuals with degrees are more intellegent than those who do not, we can say that the educated are more likely to vote in elections. Most of the individual locations fall under the range of the shaded area adjacent to the curve of best fit. However, do note that there are still a few places on the outskirts, and this suggests that the correlation might be positive, but not strongly positive.
+ 
 ### Dan
 
  531        Stalybridge & Hyde
+ 
+![Dan's graph of North West constituencies](DanS-plot.svg)
+ 
+For my plot, I used data for the change in voting behavior between the 2015 and 2017 UK General Elections from the Labour Party to the Conservative Party - where a ratio greater than 1 implies a swing to the Conservatives and a ratio smaller than 1 implies a swing to Labour. It should be noted that 41% of constituencies in the North West of England swang to the Conservatives in the 2017 General Election. This is a very interesting split, as it highlights the complex nature of the 2017 General Election where there was not a simple swing from one party to the other, as there has been historically.
+
+My plot compares this data against the estimated constituency results from the 2016 EU Referendum. I have then added two lines onto the plot, which separates the plot into 4 sections: constituencies that swang to Labour and voted Leave; constituencies that swang to Labour and voted Remain; constituencies that swang to the Conservatives and voted Leave; and constituencies that swang to the Conservatives and voted Remain.
+
+It is interesting to note that there appears to be a weak positive correlation between the swing to the Conservatives in the 2017 General Election and the strength of the Leave vote in the 2016 EU Referendum. This is as expected; and there are only 2 constituencies in the North West that voted Remain and saw a swing to the Conservatives in 2017! However, when looking at constituencies that swung to Labour in 2017, there appears to be no bias in the level of support for Leave in the referendum - in particular 41% of these constituencies voted Remain. 
 
 ### Declan
 
@@ -154,6 +179,14 @@ A negative correlation is shown in the plot, with the estimated percent of the p
 ### Isaac
 
  184            Derbyshire Mid
+ 
+![Isaac's graph of East Midlands constituencies](IsaacN-plot.svg)
+
+My graph shows the relation between the change in between voter turnout (total votes divided by total people on electoral register) and the percentage of population that voted leave. 
+
+As 0 shows no change in voter turnout it is immediately evident that in the majority of constituencies, voter turnout increased. With several constiuencies seeing a 5% increase in voter turnout, while sevral others saw small drops. 
+It is also clear that most constituencies in the East Midlands voted in majority to leave the EU.
+A negative correlation was identified between percentage of those who voted yes in the referendum and expected increase in voter turnout. In effect this means if a constiuency voted in majority to stay in the EU then they would see a higher increase in expected voter turnout. And if a constituency voted in majority to leave the EU then there voter turnout was likely to increase but not by as much. 
 
 ### Ivana
 
@@ -212,6 +245,16 @@ It also appears that the majority of constituencies in Yorkshire and the Humber 
 ### Matthew J
 
  482                 Rotherham
+ ![MatthewJ's graph of Yorkshire & the Humber constituencies](MatthewJ-plot.svg)
+ 
+ This plot shows the relationship between the percentage of votes in a constituency to leave the European Union, against both the percentage of voters *who have a degree*, and the percentage of voters *with no qualifications* for **Yorkshire and the Humber.**
+
+Overall Yorkshire residents were more likely to vote to leave the EU, since over two-thirds of constituencies delivered a result of above 51.9%, the national average. **Rotherham** follows to this trend, and its pro-Brexit stance is even significant among the rest of Yorkshire: with leave votes counting for **68.3%** of the ballot.
+
+There appears to be a strong positive relation between the average level of education and training in a constituency, and the decision to remain the EU. Leave votes count for a small proportion of the total in areas where the proportion of people with degrees is higher than the regional average, and the proportion of those with no qualifications is lower.
+
+It is important to note that the census used is 5 years old by time of Brexit vote, and the level of qualifications and degrees may have changed. Additionally, the Brexit vote percentages themselves have been esteemed as the votes were not cast on a constituency level.
+ 
 
 ### Matthew N
 
@@ -225,7 +268,7 @@ It also appears that the majority of constituencies in Yorkshire and the Humber 
 
  392                   Meriden
  
- ![Miraj's graph of West Midlands constituencies](MirajS-plot.svg)
+ ![Miraj's graph of West Midlands constituencies](MirajS-plot.png)
  
 The plot above shows the the relationship between the estimated percentage of people who voted Leave in the 2016 EU Referendum and the percentage of each constituencies' total votes, that were in favour of UKIP in the 2015 General Election, for all constituencies in the West Midlands region. Additionally, the size of each point in the plot corresponds to the percentage of each constituencies' total votes that were in favour of UKIP in the 2017 General Election.
 
