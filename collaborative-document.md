@@ -16,6 +16,7 @@ title: "ST344 Lab 3: A collaborative document"
 - Florence Welsh
 - Matt Davies
 - Kishan Radia
+- Miraj Shah
 
 (add your name as a new bullet-point to the above list)
 
@@ -184,6 +185,16 @@ It also appears that the majority of constituencies in Yorkshire and the Humber 
 ### Miraj
 
  392                   Meriden
+ 
+ ![Miraj's graph of West Midlands constituencies](MirajS-plot.svg)
+ 
+The plot above shows the the relationship between the estimated percentage of people who voted Leave in the 2016 EU Referendum and the percentage of each constituencies' total votes, that were in favour of UKIP in the 2015 General Election, for all constituencies in the West Midlands region. Additionally, the size of each point in the plot corresponds to the percentage of each constituencies' total votes that were in favour of UKIP in the 2017 General Election.
+
+Since UKIP fought hard to advertise the advantages of Brexit, it's unsurprising to see positive correlation between voting for UKIP and voting to leave the EU, since many UKIP supporters in 2015 would have shared their party's view towards leaving the EU and voted accordingly. Meriden, highlighted in red in the plot, appears to follow the similar trend represented by other West Midlands constituencies.
+
+Looking at the size of each point allows us to gauge how the popularity of UKIP has changed from 2015 to 2017. At first glance, it would be easy to suggest that in many constituencies, UKIP gained no votes at all, due to the percentage of total votes equalling 0%. However, it is important to consider how many of these constituencies actually had a UKIP candidate standing for a seat in Parliament. If every one of these constituencies had an UKIP candidate, then the lack of votes for UKIP clearly shows a decline in popularity for the party. On the other hand, if there were no candidates representing UKIP in these constituencies, then the percentage of votes in favour for UKIP does not give an accurate representation of the party's popularity with the public.
+
+Assuming that all constituencies with 0% of votes in favour of UKIP, are constituencies where there was no candidate running on behalf of UKIP, it is interesting to see the decline in the party's representation within constituencies - which may be due to the public's opinion of UKIP. UKIP played a major role in the run up to the EU referendum, which may have increased support and caused a rise in the number of candidates representing UKIP in the 2015 election. However, once the Leave result was achieved, UKIP supporters may have then switched their support towards other parties, reducing the number of candidates running on behalf of UKIP in the 2017 election.
 
 ### Namik
 
