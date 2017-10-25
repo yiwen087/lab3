@@ -1,3 +1,4 @@
+
 ---
 title: "ST344 Lab 3: A collaborative document"
 ---
@@ -21,6 +22,7 @@ title: "ST344 Lab 3: A collaborative document"
 - Anushka Katailiha
 - Declan Wardell
 - Matthew James
+- Isaac Nelson
 
 (add your name as a new bullet-point to the above list)
 
@@ -150,6 +152,14 @@ A negative correlation is shown in the plot, with the estimated percent of the p
 ### Isaac
 
  184            Derbyshire Mid
+ 
+![Isaac's graph of East Midlands constituencies](IsaacN-plot.svg)
+
+My graph shows the relation between the change in between voter turnout (total votes divided by total people on electoral register) and the percentage of population that voted leave. 
+
+As 0 shows no change in voter turnout it is immediately evident that in the majority of constituencies, voter turnout increased. With several constiuencies seeing a 5% increase in voter turnout, while sevral others saw small drops. 
+It is also clear that most constituencies in the East Midlands voted in majority to leave the EU.
+A negative correlation was identified between percentage of those who voted yes in the referendum and expected increase in voter turnout. In effect this means if a constiuency voted in majority to stay in the EU then they would see a higher increase in expected voter turnout. And if a constituency voted in majority to leave the EU then there voter turnout was likely to increase but not by as much. 
 
 ### Ivana
 
