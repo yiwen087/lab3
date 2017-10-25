@@ -286,6 +286,7 @@ Assuming that all constituencies with 0% of votes in favour of UKIP, are constit
 
  252  Finchley & Golders Green
  ![Nathan's graph of London constituencies](NathanQ-plot.svg)
+
 This graph provides information on the differences between Labour and Conservative votes in a particular London constituency. It should  be noted the performance of other parties are not considered, and that this does not mean voters are switching directly from Labour/Conservative or vice versa. 
 Points below the line indicate that Labour improved their performance against the Conservatives, while above the line is the opposite. Those in the red square were Labour in both 2015 and 2017, those in blue the same but for Conservative. Those in the bottom right square changed their relative votes from Conservative to Labour in 2017.  
 
