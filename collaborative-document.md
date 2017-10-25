@@ -12,6 +12,7 @@ title: "ST344 Lab 3: A collaborative document"
 - Tina Goldarreh
 - Kevin Choi
 - Alice Saxton
+- Alex Flint
 
 (add your name as a new bullet-point to the above list)
 
@@ -43,6 +44,14 @@ The *Birmingham Edgbaston* constituency is similar to the majority of constituen
 ### Alex
 
  428         Northampton South
+ 
+ ![Alex's graph of East Midlands constituencies](Alex_Lab3_plot.svg)
+ 
+ I have looked further into the patterns of young voters in the East Midlands. This plot shows the relationship between electoral turnout changes (between the 2015 and 2017 general elections) and the percentage of the population aged between 18 and 24 from the 2011 census. 
+
+As expected, electoral turnout tended to increase sharply in the constituencies of the East Midlands which had higher percentages of young voters in 2011. However, in all but five East Midland constintuencies there was a increase in percentage turnout in 2017 compared with 2015. 
+
+Northampton South, highlighted in red, showed very typical results for the East Midlands. To build upon these findings I would suggest finding out the proportion of teenagers in each constituency to see if this affects my findings.
 
 ### Alice
 
