@@ -19,6 +19,7 @@ title: "ST344 Lab 3: A collaborative document"
 - Miraj Shah
 - Anushka Katailiha
 - Declan Wardell
+- Diana Ivanova
 
 (add your name as a new bullet-point to the above list)
 
@@ -123,6 +124,17 @@ The region I looked at, Tamworth, was in fact the worst constituency in terms of
 ### Diana
 
  391               Meon Valley
+ 
+ ![Diana's graph of South East constituencies](Diana-plot.svg)
+ 
+ These two plots show, for all 84 constituencies in the South East region, the relationship between electoral preferences(between Labour and Conservative parties, at the 2015 and 2017 General Elections), expressed by the ratio of votes for the respective parties and the percentage of people who voted "leave" in the 2016 EU referendum. The left plot is concerned with the 2015 General Elections and the right one with the 2017 General Elections.
+ 
+ Firstly, we notice that in both years the majority of the constituencies have overall voted Conservative over Labour, with a lot of them under the 0.5 horizontal line, which implies more than twice as much votes for the Conservative party. We also observe that in most constituencies more than 50% of people have voted “leave” in the referendum and only in a few, people who voted “leave” were a minority. Those constituencies, in particular, have overall supported the Labour party in 2015 and even strongly in 2017.
+ 
+ At first look of the graphs, one might observe a slight change in the voters’ preferences from 2015 to 2017 in favour of the Labour party. However, this is not a suitable plot to draw such conclusions from, so we might want to look into relative Lab/Con vote ratios for the two years for that region.
+ 
+ Finally, Meon Valley, highlighted in red, appears to be a typical constituency from the South East region with about 53% of its representatives voting “leave” in the EU referendum.
+ 
  
 ### Dominic
 
