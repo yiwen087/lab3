@@ -23,6 +23,7 @@ title: "ST344 Lab 3: A collaborative document"
 - Declan Wardell
 - Matthew James
 - Isaac Nelson
+- Dan Simpson
 - Christopher Geon Young Park
 
 (add your name as a new bullet-point to the above list)
@@ -122,6 +123,14 @@ However, we encounter a problem with conclusion drawn above - the graph indicate
 ### Dan
 
  531        Stalybridge & Hyde
+ 
+![Dan's graph of North West constituencies](DanS-plot.svg)
+ 
+For my plot, I used data for the change in voting behavior between the 2015 and 2017 UK General Elections from the Labour Party to the Conservative Party - where a ratio greater than 1 implies a swing to the Conservatives and a ratio smaller than 1 implies a swing to Labour. It should be noted that 41% of constituencies in the North West of England swang to the Conservatives in the 2017 General Election. This is a very interesting split, as it highlights the complex nature of the 2017 General Election where there was not a simple swing from one party to the other, as there has been historically.
+
+My plot compares this data against the estimated constituency results from the 2016 EU Referendum. I have then added two lines onto the plot, which separates the plot into 4 sections: constituencies that swang to Labour and voted Leave; constituencies that swang to Labour and voted Remain; constituencies that swang to the Conservatives and voted Leave; and constituencies that swang to the Conservatives and voted Remain.
+
+It is interesting to note that there appears to be a weak positive correlation between the swing to the Conservatives in the 2017 General Election and the strength of the Leave vote in the 2016 EU Referendum. This is as expected; and there are only 2 constituencies in the North West that voted Remain and saw a swing to the Conservatives in 2017! However, when looking at constituencies that swung to Labour in 2017, there appears to be no bias in the level of support for Leave in the referendum - in particular 41% of these constituencies voted Remain. 
 
 ### Declan
 
@@ -248,7 +257,7 @@ It is important to note that the census used is 5 years old by time of Brexit vo
 
  392                   Meriden
  
- ![Miraj's graph of West Midlands constituencies](MirajS-plot.svg)
+ ![Miraj's graph of West Midlands constituencies](MirajS-plot.png)
  
 The plot above shows the the relationship between the estimated percentage of people who voted Leave in the 2016 EU Referendum and the percentage of each constituencies' total votes, that were in favour of UKIP in the 2015 General Election, for all constituencies in the West Midlands region. Additionally, the size of each point in the plot corresponds to the percentage of each constituencies' total votes that were in favour of UKIP in the 2017 General Election.
 
