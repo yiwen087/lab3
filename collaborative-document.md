@@ -10,6 +10,7 @@ title: "ST344 Lab 3: A collaborative document"
 - Nayia Constantinou
 - Jamie Wreathall
 - Tina Goldarreh
+- Anthony Shaffu
 - Kevin Choi
 - Alice Saxton
 - Alex Flint
@@ -74,6 +75,12 @@ Another interesting pattern in this plot is the almost symmetric shapes of the C
 ### Anthony
 
  631  Wolverhampton South East
+ 
+ ![Anthony's Graph of 631 ~ Wolverhampton South East](AnthonyS-plot.svg)
+ 
+ As can be seen from the graph and the correlation value of 0.6142848, there is a fairly strong positive correlation between the variables ConRatio and Leave. In other words, in the constituencies with the larger percentage of “Leave” votes, there was a larger swing of votes to the Conservatives from 2015 to 2017.
+ 
+Wolverhampton South East is among the higher end of the percentage of “Leave” votes and Conservative swing, but it still seems to follow the trend that the other West Midlands constituencies exhibit.
 
 ### Anushka
 
