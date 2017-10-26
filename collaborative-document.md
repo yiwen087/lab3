@@ -27,6 +27,7 @@ title: "ST344 Lab 3: A collaborative document"
 - Diana Ivanova
 - Zsigmond Hammer
 - Dominic Foong Wen Hao
+- Nathan Quinn
 
 (add your name as a new bullet-point to the above list)
 
@@ -301,7 +302,15 @@ Assuming that all constituencies with 0% of votes in favour of UKIP, are constit
 ### Nathan
 
  252  Finchley & Golders Green
+ ![Nathan's graph of London constituencies](NathanQ-plot.svg)
 
+This graph provides information on the differences between Labour and Conservative votes in a particular London constituency. It should  be noted the performance of other parties are not considered, and that this does not mean voters are switching directly from Labour/Conservative or vice versa. 
+Points below the line indicate that Labour improved their performance against the Conservatives, while above the line is the opposite. Those in the red square were Labour in both 2015 and 2017, those in blue the same but for Conservative. Those in the bottom right square changed their relative votes from Conservative to Labour in 2017.  
+
+It shows that for the vast majority of London constituencies, Labour gained votes relative to the Conservatives in 2017, with 3 constituencies changing from having more Conservative votes to more Labour votes. 
+
+Again, note this does not mean the constituencies elected Con or Labour MPs, just how they performed relative to eachother.  
+The constituency almost directly on the horizontal line is Kensington, which DID change from Conservative MP to Labour MP in 2017, with only 20 votes difference.
 ### Ollie
 
  516                  Solihull
