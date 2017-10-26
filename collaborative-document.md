@@ -109,11 +109,6 @@ Another observation that can be made is that constituencies with lower levels of
 
 However, we encounter a problem with conclusion drawn above - the graph indicates the number of people that were registered as unemployed in 2017, not the proportion of the population that was unemployed in 2017. Therefore, a constituency could have a small number of unemployed but that could be a large proportion of its constituency population, implying that the level of unemployment, in real terms is quite high, and vice versa.
 
- 
-### Billy
-
- 578                 Tottenham
- 
 ### Christopher
 
  137       Chatham & Aylesford
@@ -206,10 +201,6 @@ As 0 shows no change in voter turnout it is immediately evident that in the majo
 It is also clear that most constituencies in the East Midlands voted in majority to leave the EU.
 A negative correlation was identified between percentage of those who voted yes in the referendum and expected increase in voter turnout. In effect this means if a constiuency voted in majority to stay in the EU then they would see a higher increase in expected voter turnout. And if a constituency voted in majority to leave the EU then there voter turnout was likely to increase but not by as much. 
 
-### Ivana
-
- 495          Salford & Eccles
-
 ### Jamie
 
  432           Nottingham East
@@ -244,10 +235,6 @@ As expected, for all constituencies in which the registered electorate size incr
 
 As for the Battersea case, highlighted in red in the plot, this constituency appears to be fairly typical as far as these two variables are concerned.
 
-### Lewis
-
- 563                    Tatton
-
 ### Matt D
 
  591                 Wakefield
@@ -272,11 +259,6 @@ Overall Yorkshire residents were more likely to vote to leave the EU, since over
 There appears to be a strong positive relation between the average level of education and training in a constituency, and the decision to remain the EU. Leave votes count for a small proportion of the total in areas where the proportion of people with degrees is higher than the regional average, and the proportion of those with no qualifications is lower.
 
 It is important to note that the census used is 5 years old by time of Brexit vote, and the level of qualifications and degrees may have changed. Additionally, the Brexit vote percentages themselves have been esteemed as the votes were not cast on a constituency level.
- 
-
-### Matthew N
-
- 248          Feltham & Heston
 
 ### Miraj
 
@@ -291,10 +273,6 @@ Since UKIP fought hard to advertise the advantages of Brexit, it's unsurprising 
 Looking at the size of each point allows us to gauge how the popularity of UKIP has changed from 2015 to 2017. At first glance, it would be easy to suggest that in many constituencies, UKIP gained no votes at all, due to the percentage of total votes equalling 0%. However, it is important to consider how many of these constituencies actually had a UKIP candidate standing for a seat in Parliament. If every one of these constituencies had an UKIP candidate, then the lack of votes for UKIP clearly shows a decline in popularity for the party. On the other hand, if there were no candidates representing UKIP in these constituencies, then the percentage of votes in favour for UKIP does not give an accurate representation of the party's popularity with the public.
 
 Assuming that all constituencies with 0% of votes in favour of UKIP, are constituencies where there was no candidate running on behalf of UKIP, it is interesting to see the decline in the party's representation within constituencies - which may be due to the public's opinion of UKIP. UKIP played a major role in the run up to the EU referendum, which may have increased support and caused a rise in the number of candidates representing UKIP in the 2015 election. However, once the Leave result was achieved, UKIP supporters may have then switched their support towards other parties, reducing the number of candidates running on behalf of UKIP in the 2017 election.
-
-### Namik
-
- 317    Hornchurch & Upminster
 
 ### Nathan
 
@@ -320,10 +298,6 @@ This plot shows the relationship between the change in the Conservative vote sha
 
 It also appears that in constituencies where a higher percentage of the electorate voted “Leave” there was also a greater increase in the Conservative vote share. Again, Solihull, is fairly representative of this relationship.
 
-### Stefana
-
- 593             Walsall North
-
 ### Tina
 
  136                 Charnwood
@@ -336,11 +310,6 @@ This is a plot of the East Midlands constituencies showing the relationship betw
 In the East Midlands, as the number of Brexiteers increases, Labour loses seats to the Conservatives. This is not surprising since the Labour party campaigned heavily to remain in the EU. 
 
 In most of the East Midland constituencies Labour gained against Conservatives. *Charnwood*, highlighted in orange, seems to be a fairly typical constituency based on the data provided on these two variables.
-
-
-### Weiyi
-
-  54          Bexhill & Battle
 
 ### Zsigmond
 
