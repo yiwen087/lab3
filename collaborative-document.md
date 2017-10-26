@@ -243,12 +243,14 @@ As expected, for all constituencies in which the registered electorate size incr
 
 As for the Battersea case, highlighted in red in the plot, this constituency appears to be fairly typical as far as these two variables are concerned.
 
+
 ### Lewis
 
- 563 Tatton
- ![Lewis' graph of the North West constituencies.](LewisWaite-plot.svg)
+563 Tatton
+
+![Lewis' graph of the North West constituencies.](LewisWaite-plot.svg)
  
- This graph shows a connection between the number of UKIP voters in 2015, 2017 and the EU election in between. It demonstrates a number of interesting things and raises some key points
+This graph shows a connection between the number of UKIP voters in 2015, 2017 and the EU election in between. It demonstrates a number of interesting things and raises some key points
 
 The first thing to note is quite intuitive, UKIP had a huge reduction in followers between 2015 and 2017, so much so, there was no consituency that had lost any less than 2000 voters. In the North-West specifically, not a single area held the same number of voters from 2 years prior.
 
