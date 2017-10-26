@@ -4,7 +4,7 @@ title: "ST344 Lab 3: A collaborative document"
 
 # A Set of Contributed Graphs with Brief Commentary
 
-This little document is the result of a third-year undergraduate lab class at Warwick, in the module *ST344 Professional Practice of Data Analyis*.
+This little document is the result of a third-year undergraduate lab class at Warwick, in the module [*ST344 Professional Practice of Data Analysis*](https://www2.warwick.ac.uk/fac/sci/statistics/modules/st3/st344/).
 
 Many thanks to all of the students listed below, who contributed a graph!  (Each student was asked to focus on one constituency in one region, in relation to data on the 2015 and 2017 UK General Elections and the 2016 EU Referendum.)
 
