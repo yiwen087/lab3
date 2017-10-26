@@ -28,6 +28,7 @@ title: "ST344 Lab 3: A collaborative document"
 - Zsigmond Hammer
 - Dominic Foong Wen Hao
 - Nathan Quinn
+- Ollie Harvey
 
 (add your name as a new bullet-point to the above list)
 
@@ -307,9 +308,17 @@ It shows that for the vast majority of London constituencies, Labour gained vote
 
 Again, note this does not mean the constituencies elected Con or Labour MPs, just how they performed relative to eachother.  
 The constituency almost directly on the horizontal line is Kensington, which DID change from Conservative MP to Labour MP in 2017, with only 20 votes difference.
+
 ### Ollie
 
  516                  Solihull
+ ![Ollie's graph of West Midlands constituencies, highlighting on Solihull](OllieH-plot.png)
+ 
+This plot shows the relationship between the change in the Conservative vote share (no. conservative votes divided by no. total votes, at the 2015 and 2017 General election) and estimated percentage of the electorate who voted leave in the EU referendum for the West Midlands.
+
+29 of the 31 constituencies in the West Midlands saw an increase in the Conservative vote share. The highlighted constituency, Solihull, is no different in this.
+
+It also appears that in constituencies where a higher percentage of the electorate voted “Leave” there was also a greater increase in the Conservative vote share. Again, Solihull, is fairly representative of this relationship.
 
 ### Stefana
 
