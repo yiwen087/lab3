@@ -25,6 +25,7 @@ Thanks go also to Dr Stephen Fisher of the University of Oxford, who kindly supp
 - Florence Welsh
 - Matt Davies
 - Kishan Radia
+- Lewis Waite
 - Miraj Shah
 - Anushka Katailiha
 - Declan Wardell
@@ -37,6 +38,7 @@ Thanks go also to Dr Stephen Fisher of the University of Oxford, who kindly supp
 - Dominic Foong Wen Hao
 - Nathan Quinn
 - Ollie Harvey
+
 
 ## The contributions
 
@@ -241,6 +243,18 @@ As expected, for all constituencies in which the registered electorate size incr
 
 As for the Battersea case, highlighted in red in the plot, this constituency appears to be fairly typical as far as these two variables are concerned.
 
+### Lewis
+
+ 563 Tatton
+ ![Lewis' graph of the North West constituencies.](LewisWaite-plot.svg)
+ 
+ This graph shows a connection between the number of UKIP voters in 2015, 2017 and the EU election in between. It demonstrates a number of interesting things and raises some key points
+
+The first thing to note is quite intuitive, UKIP had a huge reduction in followers between 2015 and 2017, so much so, there was no consituency that had lost any less than 2000 voters. In the North-West specifically, not a single area held the same number of voters from 2 years prior.
+
+Moving onto the correlation of the graph itself. It is clear there is a positive correlation between the proportion of people voting to leave the European Union and the numebr of UKIP voters lost in the 2 years between 2015 and 2017. Looking into why this may be makes it clear why. UKIP had a very strong Brexit campaign, stronger than any other party at that time in fact. So any person who was looking to leave the EU went to UKIP to push Brexit as there was nowhere else. Coming around to the 2017 election once '#Leave' had been initiated, there were other parties happy to 'take the reigns', with the option of other parties that the public might relate to more people moved away from UKIP to bigger parties likely to move into parliament that would also move forward with leaving the European union.
+ 
+ 
 ### Matt D
 
  591                 Wakefield
