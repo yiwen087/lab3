@@ -12,6 +12,8 @@ Thanks go also to Dr Stephen Fisher of the University of Oxford, who kindly supp
 
 *David Firth*, as this document's Editor
 
+-----
+
 ## Authors
 
 - David Firth
