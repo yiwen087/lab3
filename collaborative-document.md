@@ -25,7 +25,9 @@ title: "ST344 Lab 3: A collaborative document"
 - Dan Simpson
 - Christopher Geon Young Park
 - Diana Ivanova
+- Zsigmond Hammer
 - Dominic Foong Wen Hao
+
 (add your name as a new bullet-point to the above list)
 
 ## The contributions
@@ -329,3 +331,18 @@ In most of the East Midland constituencies Labour gained against Conservatives. 
 ### Zsigmond
 
  644               Wyre Forest
+
+![Zsigmond's graph of West Midlands constituencies](zsigmondPlot1.svg)
+
+The plot above shows the relationship between the decrease in percent of people voting for the UK Independence Party (UKIP) between 2015 and 2017, and the estimated proportion of the population voting "Leave" at EU referendum in 2016.
+Each datapoint represents a constituency of the West Midlands.
+
+Before going into further details, following a sanity check, it can be confirmed that the minimum difference between the percent of UKIP voters by constituencies between 2015 and 2017 is a positive number, therefore it makes sense to apply that set of differences as a plot variable.
+
+The scatterplot suggests a positive correlation between the two variables, which, knowing the party's stance on the issue of leaving the Europen Union, might seem contradictory.
+After all, it implies that the constituancies with a higher proportion of people in favour of leaving the EU are happened to be the ones where the party has lost a larger proportion of their voters between 2015 and 2017.
+
+A sensible explanation might be the party's limited presence in politics following the results of the referendum.
+In this case, it's likely that the constituancies with a higher proportion of "leavers" were the ones where the party has gained a (proportionally) larger political base before 2016, hence losing respectively larger percents of their voters later.
+
+Considering these particular variables, Wyre Forest, a West Midlands constituency, seems to be a quite normal datapoint within the set.
