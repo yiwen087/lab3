@@ -4,11 +4,13 @@ title: "ST344 Lab 3: A collaborative document"
 
 # A Set of Contributed Graphs with Brief Commentary
 
-This little document is the result of a lab class at Warwick, in *ST344 Professional Practice of Data Analyis*.
+This little document is the result of a third-year undergraduate lab class at Warwick, in the module *ST344 Professional Practice of Data Analyis*.
 
 Many thanks to all of the students listed below, who contributed a graph!  (Each student was asked to focus on one constituency in one region, in relation to data on the 2015 and 2017 UK General Elections and the 2016 EU Referendum.)
 
-David Firth (as Editor)
+Thanks go also to Dr Stephen Fisher of the University of Oxford, who kindly supplied the data for this exercise in a convenient format.  (The same dataset will be analysed further by the ST344 students, working in small teams which each will produce a more substantial report later in the term.)
+
+*David Firth*, as this document's Editor
 
 ## Authors
 
