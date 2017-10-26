@@ -4,6 +4,12 @@ title: "ST344 Lab 3: A collaborative document"
 
 # A Set of Contributed Graphs with Brief Commentary
 
+This little document is the result of a lab class at Warwick, in *ST344 Professional Practice of Data Analyis*.
+
+Many thanks to all of the students listed below, who contributed a graph!  (Each student was asked to focus on one constituency in one region, in relation to data on the 2015 and 2017 UK General Elections and the 2016 EU Referendum.)
+
+David Firth (as Editor)
+
 ## Authors
 
 - David Firth
@@ -29,8 +35,6 @@ title: "ST344 Lab 3: A collaborative document"
 - Dominic Foong Wen Hao
 - Nathan Quinn
 - Ollie Harvey
-
-(add your name as a new bullet-point to the above list)
 
 ## The contributions
 
