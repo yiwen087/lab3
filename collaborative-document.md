@@ -26,6 +26,7 @@ title: "ST344 Lab 3: A collaborative document"
 - Christopher Geon Young Park
 - Diana Ivanova
 - Zsigmond Hammer
+- Dominic Foong Wen Hao
 
 (add your name as a new bullet-point to the above list)
 
@@ -165,6 +166,20 @@ The region I looked at, Tamworth, was in fact the worst constituency in terms of
 ### Dominic
 
  599          Warrington North
+ 
+ ![Dominic's graph of North West constituencies](DominicF-plot.svg)
+ 
+This plot shows, for all constituencies in the North West region, the relationships between the percentage of population that voted for UK to leave EU in the EU Referendum 2016 and the percentage of people aged between 18 and 24 according to the 2011 census.
+
+The first thing that we can immediately notice from the graph is that most of the constituencies have low percentage of youth, except for a few cases. This is as expected as it agrees with the general demography of the UK population. The few outliers are most likely due to them being a student hub, which is therefore normal to have more youths between age 18 and 24.
+
+For constituency with low percentage of youth, there is a positive relationship between the percentage of population that voted for 'Brexit' and the percentage of population aged between 18 and 24 in the 2011 census. It might be surprising to see that the areas with more youth has a higher percentage of population that voted to leave EU, especially when most youth are reported to be 'pro-Bremain'. This could be due to the fact that not many young people voted in the EU Referendum 2016, thus giving greater voting weightage to the older demographics, which might have had greater tendencies to be pro-Brexit. 
+
+In most of the constituency where percentage of youth is extremely high, there percentage of population that voted leave was very low. This might be due to the fact that there are more youths in these areas who are more likely to be pro-Bremain compared to older demographics who are more likely to be pro-Brexit.
+
+However, we should note that there is no definitive answer on how many percentage of youth that voted or if they would vote to leave or remain in the EU. We also have to note that this group of youth would be between the age 23 and 29 during the year 2016, when the EU referendum was taken place.
+
+As shown in the graph, majority of the constituencies in the North West region had over 50% of their population that voted to leave EU in the EU Referendum 2016. That is, over 50% of the population in these constituencies are in favour of leaving EU. However, this does not show the overall population of the North West region and its general preferences to the result of the EU referendum. as the size of constituency are not equal and not represented by the graph.
  
 ### Florence
 
