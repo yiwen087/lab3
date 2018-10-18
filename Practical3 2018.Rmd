@@ -1,0 +1,211 @@
+---
+title: "ST344 Practical 3"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, fig.width=8, fig.height=5)
+```
+
+## Exploratory Data Analysis; and Git for Collaboration
+
+In this lab session you will do two different things:
+
+1.  Do exploratory data analysis to help gain some familiarity with the ATUS data that will be used later in the group coursework.  
+
+2.  Contribute one publication-quality graph, and some brief commentary, to a whole-class collaborative document hosted on GitHub.
+
+As well as getting an initial feel for the ATUS data, then, you will get some practice in producing presentable graphs in _R_, and also a (very) basic introduction to how _Git_ can be used to help in working collaboratively with other people.
+
+This sheet is laid out in several steps, for ease of navigation.  **Step 4** below is where the data-analytic substance is, and where you should spend most of your lab and homework time.
+
+
+### Step 1: Clone the repository for this lab session, and make that your working directory in R
+
+Cloning a GitHub repository just means making a local copy of it, as a folder (i.e., directory) on your computer.
+
+Do **one of** the following two things.  Try #1 first.  If that doesn't work, it is most likely because Git is not installed on your computer: in that case either install Git, or else do #2 instead.
+
+1. In RStudio:
+
+    - File > New Project > Version Control > Git 
+
+    - supply the URL https://github.com/DavidFirth/lab3
+
+    - pick the location for the "lab3" folder on your computer.  **OR**
+
+2.  In a web browser, visit https://github.com/DavidFirth/lab3.  Click the "Clone or download" button, and download the zip archive.  Unzip it in a location of your choice, on your computer.
+
+Whichever of the above you did: ensure that RStudio is working in the "lab3" or "lab3-master" folder that you just made.
+In the R console pane, you can use `getwd()` to find out what the current working directory is.  If that's not the right place, you can use "Open Project..." (for #1) or "New Project..." (for #2) from the File menu, to get RStudio working in the right place.
+
+###  Step 2: Read in the data
+
+From this point on, at least, **be sure to maintain a record of everything you do**, in a `.Rmd` file.
+
+```{r get_data}
+atus2017 <- read.csv("atussum_2017.csv")
+```
+
+### Step 3: Make a new dataset that has just 6 specific variables in it
+
+Take a look at the Markdown file **collaborative-document.md**.  This is the document that we will all ultimately contribute to.
+
+There is a place in that document for each of us to add our graph and some brief commentary on it.
+
+The ATUS dataset for 2017 records the amount of time spent by people, in one specified day, in each of 17 categories of activity.  See the file **ATUS top-level time use categories.html** for a short description of the 17 categories.  Note that the categories are numbered from 01 to 18, and there is no category numbered 17.
+
+Each of us has been assigned at random to just **three** of the 17 time-use categories, for this exercise.  (look under your name in the **collaborative-document.md** file)
+
+My (David F) assigned variables are 08, 10, 14.
+
+We will make a 6-column _reduced_ dataset, with variables **month** (i.e., the month that contains the specified day for which time use was recorded), **age** and **sex** in addition to the total time spent by each person.
+
+First let's extract just the month, age and sex variables.  For the month, we can use `substr` to extract it from the datestamp that's contained in the first column of the `atus2017` data.
+
+```{r make_mydata}
+mydata <- data.frame(month = substr(atus2017[, 1], 5, 6),
+                     age = atus2017 $ TEAGE,
+                     sex = ifelse(atus2017 $ TESEX == 1, "M", "F")
+                    )
+```
+
+Next I will compute the totals for time spent in each of my three assigned time-use categories.  (Note that **your** assigned categories will be different!)  Here I will use `grep` to select out only the time-use columns that relate to my three assigned categories.
+
+```{r get_totals}
+tu08 <- atus2017[, grep("^t08", names(atus2017))]
+tu10 <- atus2017[, grep("^t10", names(atus2017))]
+tu14 <- atus2017[, grep("^t14", names(atus2017))]
+## That's a data frame for each category.  [Use head() to take a look.]
+## Now compute the total time, within each category, and put in my data frame:
+mydata $ tu08 <- rowSums(tu08)
+mydata $ tu10 <- rowSums(tu10)
+mydata $ tu14 <- rowSums(tu14)
+head(mydata)
+```
+
+(Do take the time needed to understand fully what was done in each of the above data-preparation steps.  And feel free of course to use tibbles instead of data frames, if you prefer that.)
+
+### Step 4: Explore the reduced "mydata" graphically
+
+-----
+
+**Note:** It's a good idea to include code at the top of your file to take control of the size of the graphs you will draw.  For example, a chunk like
+
+```{r}
+knitr::opts_chunk$set(echo = TRUE, fig.width = 8, fig.height = 5)
+```
+
+-----
+
+For illustrative purposes only, I will focus here just on the relationships between the time-use variables and **age**.
+
+First some simple scatterplots, with smooth mean curves drawn on top:
+
+```{r scatterplots}
+require(dplyr)
+require(ggplot2)
+plot08.age <- {mydata %>% ggplot(aes(x = age, y = tu08))} + geom_point() + geom_smooth()
+plot10.age <- {mydata %>% ggplot(aes(x = age, y = tu10))} + geom_point() + geom_smooth()
+plot14.age <- {mydata %>% ggplot(aes(x = age, y = tu14))} + geom_point() + geom_smooth()
+```
+
+Those are not so easy to look at --- mainly because nonzero values are rare for category 10, and not all that common for categories 08 and 14 either.  Probably we want to think of other ways to look at these data.
+
+There's an interesting thing about the `age` variable --- an apparent gap between ages 80 and 85.  We could look at that by looking at, for example
+```
+sort(mydata $ age [mydata $ age > 75])
+```
+--- from which it appears that the higher ages have been rounded to 80 or 85.  (This should really be checked via the ATUS documentation on the website.)
+
+I will focus here on time-use category 14 --- _Religious and spiritual activities_ --- and I will simply summarize the proportion of respondencs who reported spending _any time at all_ on such activity.
+
+```{r}
+plot14.age <- mydata %>% ggplot(aes(x = age, y = 100 * (tu14 > 0))) + geom_smooth()
+plot14.age
+```
+
+I probably could make a more interesting graph than that one (for example, with separate curves for male and female).  But instead I'm just going to tidy up that graph now for presentation in my section of the collaborative document.  I can at least say something descriptive about it there, I reckon.
+
+That graph is very far from presentable, though.  I want to add title and axis labels at least (and I might also want to take control over colours, appearance of any legend, etc).  The facilities of **ggplot** are extremely flexible, and here I will just use a few basic things.  To find lots of information on what's possible, either read Ch 3 in Grolemind and Wickham's [*R for Data Science*](http://r4ds.had.co.nz/data-visualisation.html) book or (especially) visit http://ggplot2.org/ .
+
+Here is what I decided to do, to make my graph presentable.  This always demands some experimentation, to get things how you want them to appear!  But good enough is good enough: we don't need or want 'perfection'.
+
+```{r prettify_plot}
+myplot <- plot14.age +
+        xlab("Age of survey respondent") +
+        ylab("Spent any time at all on 'Religious and sipritual activity' (%)") +
+        ggtitle("Older people engage more in religious activity", 
+                subtitle = "Drawn from the 2017 American Time Use Survey")
+print(myplot)
+```
+
+
+This plot shows how participation in religious and spiritual activity in the USA is different at different ages.  The graph is based on data from the 2017 American Time Use Survey, in which
+respondents recorded how they spent all of their time on the day before they were interviewed.
+The above graph shows the percentage of respondents, at different ages, who reported that they had spent any time at all on religious and spiritual activity on the day in question.
+
+The graph shows how such participation increases from less than 10% of 20-year-olds, to 20% or more of the oldest survey respondents.  It should be noted that the data for the very oldest respondents --- those aged 80 and over --- is less reliable than at other ages, partly because of small numbers and partly because of the rounded recording of older ages in the published ATUS data.
+
+**The above is just an illustrative example of the sort of graph and text you might include in this file.  I fully expect that some of the graphs you'll produce will be more interesting than this one!**
+
+### Step 5: Make a stand-alone graphics file for inclusion in the collaborative document
+
+Our collaborative document will appear only on the web, so it makes sense to use a file format that works well on the web.  (So, not PDF in this instance --- since PDF is designed for making 'printed' pages, not for display on the web.)
+
+Recommended formats for the web are `PNG` (portable network graphics, a bitmap format, good for photographs and other plots with many thousands or millions of points/colours), and `SVG` (scalable vector graphics, good for simple drawings because it scales well and is economical).  Here we will use `SVG`, with a nominal file width of 8 (inches).  Another advantage of `SVG` files is that they are object-oriented, and therefore hand-editable afterwards using widely available software such as *Inkscape*.  When choosing the file name, prepend your own name to avoid name clashes with graphs that other students will contribute to the collaborative document:
+
+```{r make_svg}
+svg(file = "DavidF-plot.svg", width = 8, height = 5)
+print(myplot)    ##  This writes the graph to the file
+dev.off()          ##  This is essential, to close the file.
+```
+
+You can look at the file you have made, by opening it in a web browser for example.
+
+### Step 6: Upload your graph to GitHub
+
+- Log in to GitHub
+
+- Navigate to https://github.com/DavidFirth/lab3 and click "Fork" (at top right of page), to fork the lab3 repository to your own account on GitHub.  You will then find a forked copy of the 'lab3' repository, in your own profile on GitHub.  That is where you will upload your graph, and make edits to the collaborative document.
+
+- in your GitHub view of 'lab3', click the **Upload files** button, to upload your `SVG` or `PNG` file.  After dragging or choosing the right file there, be sure to hit the **Commit changes** button at the bottom of the upload page (do not change any other settings there).  After that, in your view of the 'lab3' fork you should see your own `.svg` file in the list of repository contents.
+
+### Step 7: Edit your fork of the collaborative document
+
+While still logged in to your GitHub account on the web, and still viewing your fork of 'lab3' there:
+
+- click on **collaborative-document.md**, and take a look at the contents.
+
+- click on the *pencil* icon at the top, to make  your edits.
+
+- you will need to edit three things:
+
+    1. Add your name as a new bullet-point at the end of the list of authors, at the top of the document.
+    2. In **your section** of the document, insert a link to your `SVG` or `PNG` file.  See the entry under 'David' near the top of the file, for an example to follow.
+    3.  Add your paragraph of commentary text beneath the graph.  (This should be written in standard Markdown: the *R* features of R markdown won't work here, because R is not available at GitHub.)  Be sure to click **Commit changes** at the bottom of the file editor, when finished.  Now preview the results, and make further adjustments in the editor again if needed.
+    
+### Step 8: Merge your edits with everyone else's
+
+After you have finished editing the collaborative document, hit the **New pull request** button, at the top of your GitHub view of the forked 'lab3'.   Send your pull request, with an informative message and any comments that you want to bring to the attention of the maintainer of the upstream 'lab3' repository.  The rest of this process is then handled by the maintainer.
+
+As long as you have edited only your own part of the document, all will go well.  If you have tried to edit someone else's section, your pull request will be denied by the maintainer.
+
+When your pull request is accepted, the collaborative document at https://github.com/DavidFirth/lab3 will show your contribution, along with everyone else's.
+
+### Step 9: Tidy up your .Rmd file and submit it via the usual Moodle portal
+
+See the requirements of 'Lab report 3', below.
+
+## Lab report 3
+
+For the third lab report, produce a *R Markdown* document that gives your Student ID as author, and submit the `.Rmd` file to Moodle.  
+
+The `.Rmd` file needs to contain two things:
+
+1.  Your R code for making the graph that you have chosen for inclusion in the collaborative document.  This should be self-contained code.  Running your code, in a copy of R that is started in the _lab3_ directory and that has the required packages installed, should produce the graph that you made.
+
+2.  A short paragraph --- _indicative_ length 150--200 words (but don't worry if you write a bit less or a bit more) --- that reports briefly on what explorations you did before deciding on the graph that you would choose to include in the collaborative document.
+
+Deadline for submission on Moodle, and for completion of Step 8 above too, is Thursday 25 October, 11 am.  **You are strongly advised to complete Step 8 _well ahead_ of the deadline, in case you have any technical issues along the way.**
+
