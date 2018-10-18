@@ -15,7 +15,7 @@ title: "ST344 Lab 3: A collaborative document"
 
 ### DAVID F
 
-    01 02 03
+    08 10 14
 
 ![David's graph of religious participation vs age](DavidF-plot.svg)
 
