@@ -7,6 +7,7 @@ title: "ST344 Lab 3: A collaborative document"
 ## Authors
 
 - David Firth
+- Daniel Timmers
 - (next name to be added here)
 
 (add your name to the above list when you have contributed your file)
@@ -55,6 +56,14 @@ The graph shows how such participation increases from less than 10% of 20-year-o
 ### DANIEL
 
     03 05 11
+    
+![Daniel's graph of the effect of spending time looking after family members on the relationship between age and time spent on work-related activities, for both men and women](DanielT-plot.svg)
+    
+The plot shows how participation % in **work-related activities** varies with age in the USA. The graph is build using [data](https://raw.githubusercontent.com/DavidFirth/lab3/master/atussum_2017.csv) from the 2017 American Time Use Survey (ATUS). The ATUS dataset for 2017 records the amount of time spent by people, in one specific day, in each of 17 categories of activity. This [link](http://htmlpreview.github.io/?https://github.com/DavidFirth/lab3/blob/master/ATUS%20top-level%20time%20use%20categories.html) provides a short description of the 17 categories. 
+
+The graph splits the data dependent on sex and whether the participant had spent *any time at all* on looking after family members. We can see that for the majority of ages, a higher proportion of men spend *any time at all* on work-related activities than women. This is arguably not a big surprise as the US, like most of the world, has a history of men being the household earners. Therefore the more interesting information from this graph is for women, in the 20-48 age range, it appears that part of the reasoning for low participation is because they are spending time looking after family members. For men we cannot make this conclusion as it very much depends on age. 
+
+It should be noted that participants aged 81-84 and 85+ had their ages rounded to 80 and 85 respectively. However, this does not affect any conlusions made above.
 
 ### DANIUS
 
