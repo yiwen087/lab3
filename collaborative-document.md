@@ -58,7 +58,6 @@ The graph shows how such participation increases from less than 10% of 20-year-o
     03 05 11
 
 ### DANIUS  
-        lab3/DaniusBackisplotfinal.svg
    ![David's graph of religious participation vs age](DaniusBackisplotfinal.svg)
 
 The graph above depicts the relationship between the average time spent on educational activities and the age of the respondents. As one would expect, the younger the respondent, the more they spend time educating themselves. The maximum is attained at 17 years old, when people spend on average 200 minutes per day on education, and then it drops quickly. 7 years later, less than 24 minutes per day are spent on education. It can also be noted that from 50 years old participants practically never spend time on education, which I found quite surprising. 
