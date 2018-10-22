@@ -7,7 +7,7 @@ title: "ST344 Lab 3: A collaborative document"
 ## Authors
 
 - David Firth
-- (next name to be added here)
+- Samuel Hine
 
 (add your name to the above list when you have contributed your file)
 
@@ -159,6 +159,12 @@ The graph shows how such participation increases from less than 10% of 20-year-o
 ### SAMUEL
 
     06 09 13
+    
+![](SamH-plot.svg)
+    
+The plot shows the proportion of time people spend on sports and recreation as opposed to education. Note that only people included in this plot are those who _are_ in education. All respondents were specified to have an age under 25, so the graph isn't clouded by the many ages that are not in education. 
+The graph shows that males between the 15-17 age bracket spend far more on recreational activites, since the values for these ages fall above the 0.5 line. As the age increases, the proportions through the ages fall together; reason for this could include and increase in difficulty relating to higher eduation.
+For females however, the proportion does not change much over time, perhaps due to female students being more motivated in school.
     
 ### SANDEEP
 
