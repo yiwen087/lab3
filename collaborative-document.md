@@ -7,7 +7,10 @@ title: "ST344 Lab 3: A collaborative document"
 ## Authors
 
 - David Firth
+- Danius Backis
+- James Walsh
 - Samuel Hine
+- (next name to be added here)
 
 (add your name to the above list when you have contributed your file)
 
@@ -56,9 +59,14 @@ The graph shows how such participation increases from less than 10% of 20-year-o
 
     03 05 11
 
-### DANIUS
+### DANIUS  
 
-    06 11 14
+   06 11 14
+   
+   ![Danius' graph showing the relationship between age and time spent on education](DaniusBackisplotfinal.svg)
+
+The graph above depicts the relationship between the average time spent on educational activities and the age of the respondents. As one would expect, the younger the respondent, the more they spend time educating themselves. The maximum is attained at 17 years old, when people spend on average 200 minutes per day on education, and then it drops quickly. 7 years later, less than 24 minutes per day are spent on education. It can also be noted that from 50 years old participants practically never spend time on education, which I found quite surprising. 
+
     
 ### DAVID
 
@@ -79,6 +87,13 @@ The graph shows how such participation increases from less than 10% of 20-year-o
 ### JAMES
 
     03 08 14
+    
+![James's graph of household care vs age and gender](James-plot.svg)
+
+The above figure conveys an inequality in both gender and age of individuals caring for members within the American home. Participants of the 2017 American Time Use Survey (ATUS) were expected to note how many hours of the day before their interview they had spent on various tasks. In the graph, we may see the proportion of the total reported hours directed to this care, split by age and sex.
+
+Of all reported hours caring for others within their home, across almost all ages, females (grey) report a higher number of hours than males (pink). Secondly, younger woman (25-35) spend considerably more time on this task than men of the same age range. Interestingly, men do show a clear peak in their late thirties, perhaps correlated to their aging parents seeking their help. The trend lines are provided solely for illustrative purposes of indicating the distinct differences in proportions, as they have not been statistically scrutinized. Similarly, the tails of these rough distributions, and hence these data, should be considered somewhat unreliable due to small sample size within these age ranges.
+
     
 ### JAN
 
