@@ -16,6 +16,7 @@ title: "ST344 Lab 3: A collaborative document"
 - Daniel Timmers
 - James Walsh
 - Harrison Wilde
+- Niraj Shah
 - (next name to be added here)
 
 (add your name to the above list when you have contributed your file)
@@ -206,6 +207,12 @@ It should be noted that there are more females who spent time on consumer purcha
 ### NIRAJ
 
     03 06 13
+    
+![](NirajSplot.svg)
+
+This plot investigates how time spent looking after their household members in the USA varies by age. The red plot shows this relationship for females, and the blue plot shows this relationship for males.
+
+The plot shows that the relationship between time spent looking after household members and age is similar for both males and females. This is, that the amount of time looking after household members increases as age increases to a certain point, and then the time spent looking after household members decreases. We can also clearly interpret from the plot that from ages 15 to 50, females generally spend more time looking after household members than males. However, once ages get to 50 or order, the time spent looking after household members is effectively the same for both females and males. It should not come as a surprise that females spend more time daily in looking after household members than males. The plot also confirms what we should expect when people get older and closer to retirement, as their body is more frail and hence they are unlikely to spend as much time looking after their household members.
     
 ### OPEOLORUN
 
