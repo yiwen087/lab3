@@ -7,14 +7,15 @@ title: "ST344 Lab 3: A collaborative document"
 ## Authors
 
 - David Firth
+- Denis Akkavim
 - Danius Backis
 - Samuel Hine
 - Jia Le Lian
 - Reece Mears
+- Dana Penistone
 - Daniel Timmers
 - James Walsh
 - Harrison Wilde
-- Dana Penistone
 - (next name to be added here)
 
 (add your name to the above list when you have contributed your file)
@@ -94,6 +95,14 @@ The graph above depicts the relationship between the average time spent on educa
 ### DENIS
 
     02 03 12
+    
+![](Denis-plot.png)
+
+The plot shows the how the amount of time spent on housework changes as people age, divided by the gender of the survey respondents. The graph shows that, generally speaking, as one gets older, one tends to spend more time on housework - until one reaches their 70s, when the amount of time spent on housework reduces. Arguably, this should not come as much of a surprise - the older you are, the larger your house is likely to be, and the more time you will need to spend on housework. Furthermore, the elderly tend to be quite frail, and they simply may not be physically capable of spending the same amount of time as they used to spend on housework.
+
+Most notably, we observe that at all ages, women spend more time on housework than men - which, depending on your point of view, may or may not come as a surprise. 
+
+It is also worth noting that there is limited data on participants under the age of 18, and on participants over the age of 80.
     
 ### FAN
 
