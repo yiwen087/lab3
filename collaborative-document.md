@@ -143,7 +143,7 @@ From the graph it can be seen that, regardless of gender, respondents who spent 
 \
 Looking at males, the amount of time spent by volunteers on SR&L, on a given day, follows a very similar trend to that of non-volunteers. In fact, it appears as though the trend for volunteers is, for the most part, a scaled down version of the trend for non-volunteers. The only noticeable difference is when we look at males over the age of 70. 
 \
-For males over 70 the amount of time spent by volunteers on SR&L deviates from the trend observed in non-volunteers; as age increases there is a decrease in the amount of time spent by volunteering males on SR&L. A possible explanation is the wide 95% confidence interval for volunteers over 70, which suggests that the number of volunteering males over 70 was comparatively small.
+For males over 70 the amount of time spent by volunteers on SR&L deviates from the trend observed in non-volunteers; as age increases there is a decrease in the amount of time spent by volunteering males on SR&L. A possible explanation is the wide 95% confidence interval for volunteers over 70, which suggests that the number of males over 70 who volunteered on a given day was comparatively small.
 
 \
 Contrary to males, the trend for female volunteers does not match that of the female non-volunteers very closely. This is particularly true for females under the age of 30. The 95% confidence interval of volunteering females is much wider than that of non-volunteers. This suggests that out of all female respondents relatively few of them under the age of 30 engaged in volunteering, on a given day.
