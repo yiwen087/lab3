@@ -113,7 +113,8 @@ Of all reported hours caring for others within their home, across almost all age
 
     07 08 18
     
-    ![Jia Le's graph of spending time consumer purchases against age, per month](JiaLian-plot.svg)
+![Jia Le's graph of spending time consumer purchases against age, per month](JiaLian-plot.svg)
+
 This plot illustrates the proportion of males and females who spent time on making consumer purchases by age, on a monthly basis. The data is taken from the 2017 American Time Use Survey, which recorded the time spent by individuals on the day before their interview. 
 
 In general, the proportion of individual who spent time purchasing consumer goods increases with age, peaking at around 40 years old. This is followed by a downward slope as we move towards the 60-80 age range. This could be explained by elder people having restricted mobility compared to younger people, thus many of them no longer spent time on consumer purchases. 
