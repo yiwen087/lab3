@@ -92,8 +92,8 @@ The graph above depicts the relationship between the average time spent on educa
 
     01 02 05
     
-    ![David's graph of sleep vs age and sex](DavidH-plot.svg)
-    
+![David's graph of sleep vs age and sex](DavidH-plot.svg)
+
 The above graph shows how age and sex differences impact the participants' sleep, with data taken from the [American Time Use Survey.](https://www.bls.gov/tus/). Firstly, we can see that young people, teenagers in particular, slept for longer than any other age group. This is perhaps explained by not spending as much time working, as this age group also spends less time working than any other. The elderly also spend less time working, and more time sleeping, than most other age groups. However, they sleep less than young people, which can be explained by physical differences causing a need for less sleep. In fact, there is significant evidence of a negative correlation between work and sleep, with Pearson correlation coefficient r = -0.32.
 
 Among those with ages 20-60, we see fluctuations in the data. Women in their 40s and 50s sleep less than women at any other point in their lives. A possible explanation for this is motherhood, although we would expect to see a dip earlier in their lives. Men also see a slight increase in sleep during this time. Overall, women sleep more than men, except for those that are very young and old.
