@@ -7,12 +7,13 @@ title: "ST344 Lab 3: A collaborative document"
 ## Authors
 
 - David Firth
-- Reece Mears
-- Jia Le Lian
 - Danius Backis
-- James Walsh
 - Samuel Hine
+- Jia Le Lian
+- Reece Mears
 - Daniel Timmers
+- James Walsh
+- Harrison Wilde
 - (next name to be added here)
 
 (add your name to the above list when you have contributed your file)
@@ -94,7 +95,16 @@ The graph above depicts the relationship between the average time spent on educa
 ### HARRISON
 
     05 15 16
- 
+
+![](HarrisonW-plot.svg)
+
+Interestingly, when the variables are plotted using a similar methodology to the one followed by David, the two variables begin to insinuate a potentially more complex relationship. The graph depicts smoothed curves of the percentage of people at each age value who participate in each activity for at least some amount of time.
+
+The curve for volunteering related activities has notable increases around the ages of 20 and below, as well as beyond 60-65 which is a fairly standard retirement age. This could be attributed to young people, namely students and people yet to start working full time, having more time to volunteer. Similarly, older people who have retired will also have more time to volunteer.
+
+The percentage of people volunteering falls from around 7% to a low point of almost 3% in mid to late 20 year olds which could signify a significant loss of free time as people start families and careers at this age. It is also interesting to observe a bump in the mid-40's (also observable in time spent working, perhaps as people reach the middle of their life and feel pressured to contribute to something external, be it work or volunteering) followed by an even larger bump at ages beyond 65 where a height of around 10% of people volunteering is reached among assumed retirees.
+
+The general pattern of the data is clear in that the majority of time spent is on working between the ages of 20's to 60's, as would be expected intuitively. It is unfortunate that the numbers of people volunteering and time spent volunteering is significantly lower than that of people working. Though the way in which people split their time does indeed suggest a conclusion of a weak relationship between people who work less having a higher probability of spending at least *some* time volunteering.
  
 ### JAMES
 
