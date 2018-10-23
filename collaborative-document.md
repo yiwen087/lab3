@@ -8,6 +8,11 @@ title: "ST344 Lab 3: A collaborative document"
 
 - David Firth
 - Jia Le Lian
+- Danius Backis
+- James Walsh
+- Samuel Hine
+- Daniel Timmers
+- (next name to be added here)
 
 (add your name to the above list when you have contributed your file)
 
@@ -55,10 +60,23 @@ The graph shows how such participation increases from less than 10% of 20-year-o
 ### DANIEL
 
     03 05 11
+    
+![Daniel's graph of the effect of spending time looking after family members on the relationship between age and time spent on work-related activities, for both men and women](DanielT-plot.svg)
+    
+The plot shows how participation % in **work-related activities** varies with age in the USA. The graph is build using [data](https://raw.githubusercontent.com/DavidFirth/lab3/master/atussum_2017.csv) from the 2017 American Time Use Survey (ATUS). The ATUS dataset for 2017 records the amount of time spent by people, in one specific day, in each of 17 categories of activity. This [link](http://htmlpreview.github.io/?https://github.com/DavidFirth/lab3/blob/master/ATUS%20top-level%20time%20use%20categories.html) provides a short description of the 17 categories. 
 
-### DANIUS
+The graph splits the data dependent on sex and whether the participant had spent *any time at all* on looking after family members. We can see that for the majority of ages, a higher proportion of men spend *any time at all* on work-related activities than women. This is arguably not a big surprise as the US, like most of the world, has a history of men being the household earners. Therefore the more interesting information from this graph is for women, in the 20-48 age range, it appears that part of the reasoning for low participation is because they are spending time looking after family members. For men we cannot make this conclusion as it very much depends on age. 
 
-    06 11 14
+It should be noted that participants aged 81-84 and 85+ had their ages rounded to 80 and 85 respectively. However, this does not affect any conlusions made above.
+
+### DANIUS  
+
+   06 11 14
+   
+   ![Danius' graph showing the relationship between age and time spent on education](DaniusBackisplotfinal.svg)
+
+The graph above depicts the relationship between the average time spent on educational activities and the age of the respondents. As one would expect, the younger the respondent, the more they spend time educating themselves. The maximum is attained at 17 years old, when people spend on average 200 minutes per day on education, and then it drops quickly. 7 years later, less than 24 minutes per day are spent on education. It can also be noted that from 50 years old participants practically never spend time on education, which I found quite surprising. 
+
     
 ### DAVID
 
@@ -79,6 +97,13 @@ The graph shows how such participation increases from less than 10% of 20-year-o
 ### JAMES
 
     03 08 14
+    
+![James's graph of household care vs age and gender](James-plot.svg)
+
+The above figure conveys an inequality in both gender and age of individuals caring for members within the American home. Participants of the 2017 American Time Use Survey (ATUS) were expected to note how many hours of the day before their interview they had spent on various tasks. In the graph, we may see the proportion of the total reported hours directed to this care, split by age and sex.
+
+Of all reported hours caring for others within their home, across almost all ages, females (grey) report a higher number of hours than males (pink). Secondly, younger woman (25-35) spend considerably more time on this task than men of the same age range. Interestingly, men do show a clear peak in their late thirties, perhaps correlated to their aging parents seeking their help. The trend lines are provided solely for illustrative purposes of indicating the distinct differences in proportions, as they have not been statistically scrutinized. Similarly, the tails of these rough distributions, and hence these data, should be considered somewhat unreliable due to small sample size within these age ranges.
+
     
 ### JAN
 
@@ -169,6 +194,12 @@ It should be noted that there are more females who spent time on consumer purcha
 
     06 09 13
     
+![](SamH-plot.svg)
+    
+The plot shows the proportion of time people spend on sports and recreation as opposed to education. Note that only people included in this plot are those who _are_ in education. All respondents were specified to have an age under 25, so the graph isn't clouded by the many ages that are not in education. 
+The graph shows that males between the 15-17 age bracket spend far more on recreational activites, since the values for these ages fall above the 0.5 line. As the age increases, the proportions through the ages fall together; reason for this could include and increase in difficulty relating to higher eduation.
+For females however, the proportion does not change much over time, perhaps due to female students being more motivated in school.
+    
 ### SANDEEP
 
     02 04 15
@@ -204,5 +235,4 @@ It should be noted that there are more females who spent time on consumer purcha
 ### ZILIN
 
     04 10 15
-
 
