@@ -81,7 +81,7 @@ The graph shows how such participation increases from less than 10% of 20-year-o
 
 This first graph was generated using means calculated through aggregation of time spent by each age value on each of the two investigated activities: volunteering and working (corresponding to variables `15` and `16`). These findings were then plotted on an area graph and it can be seen that the average time spent volunteering doesn't seem to have any clear relationship with age, whilst work-related activities are clearly at a peak between around 20 and 60 years old which is what would be the expectation as these are fairly standard periods of life for someone to be working full time. The average time spent working during this peak period is around 200 minutes.
 
-It could be said that beyond around 60 years old, people do on average spend at least 10 or so minutes volunteering, implying a slight increase when compared to earlier years.
+It could be said that beyond around 60 years old, people do on average spend at least 10 or so minutes volunteering, implying a slight increase when compared to earlier years. Note that the two areas could also have been "stacked" on top of each other to show the overall time spent on the two activities by each subject age value, and this could perhaps be more informative in the latter years where the addition of more volunteering picks up some of the lost area in time spent working.
 
 ![](HarrisonW-plot2.svg)
 
