@@ -10,12 +10,14 @@ title: "ST344 Lab 3: A collaborative document"
 - Denis Akkavim
 - Danius Backis
 - Samuel Hine
+- David Hooton
 - Jia Le Lian
 - Reece Mears
 - Dana Penistone
 - Daniel Timmers
 - James Walsh
 - Harrison Wilde
+- Dana Penistone
 - (next name to be added here)
 
 (add your name to the above list when you have contributed your file)
@@ -91,6 +93,14 @@ The graph above depicts the relationship between the average time spent on educa
 ### DAVID
 
     01 02 05
+    
+![David's graph of sleep vs age and sex](DavidH-plot.svg)
+
+The above graph shows how age and sex differences impact the participants' sleep, with data taken from the [American Time Use Survey.](https://www.bls.gov/tus/). Firstly, we can see that young people, teenagers in particular, slept for longer than any other age group. This is perhaps explained by not spending as much time working, as this age group also spends less time working than any other. The elderly also spend less time working, and more time sleeping, than most other age groups. However, they sleep less than young people, which can be explained by physical differences causing a need for less sleep. In fact, there is significant evidence of a negative correlation between work and sleep, with Pearson correlation coefficient r = -0.32.
+
+Among those with ages 20-60, we see fluctuations in the data. Women in their 40s and 50s sleep less than women at any other point in their lives. A possible explanation for this is motherhood, although we would expect to see a dip earlier in their lives. Men also see a slight increase in sleep during this time. Overall, women sleep more than men, except for those that are very young and old.
+
+It should be noted that the values in this chart seem very large, as the average time spent sleeping for all participants in 8 hours and 36 minutes, and the average for those under 20 is almost 10 hours. A Gallup [poll](https://news.gallup.com/poll/166553/less-recommended-amount-sleep.aspx) found that the average time a US person spends sleeping is 6.8 hours. I only used the category t010101: Sleeping for my graph, so any variation between these is due to the methodology of the studies.
     
 ### DENIS
 
