@@ -75,7 +75,7 @@ The plot shows the how the amount of time spent on housework changes as people a
 
 Most notably, we observe that at all ages, women spend more time on housework than men - which, depending on your point of view, may or may not come as a surprise. 
 
-It is also worth noting that there is limited data on participants under the age of 20, and on participants over the age of 80.
+It is also worth noting that there is limited data on participants under the age of 18, and on participants over the age of 80.
     
 ### FAN
 
