@@ -9,6 +9,7 @@ title: "ST344 Lab 3: A collaborative document"
 - David Firth
 - Danius Backis
 - James Walsh
+- Samuel Hine
 - (next name to be added here)
 
 (add your name to the above list when you have contributed your file)
@@ -65,7 +66,6 @@ The graph shows how such participation increases from less than 10% of 20-year-o
    ![Danius' graph showing the relationship between age and time spent on education](DaniusBackisplotfinal.svg)
 
 The graph above depicts the relationship between the average time spent on educational activities and the age of the respondents. As one would expect, the younger the respondent, the more they spend time educating themselves. The maximum is attained at 17 years old, when people spend on average 200 minutes per day on education, and then it drops quickly. 7 years later, less than 24 minutes per day are spent on education. It can also be noted that from 50 years old participants practically never spend time on education, which I found quite surprising. 
-
 
     
 ### DAVID
@@ -174,6 +174,12 @@ Of all reported hours caring for others within their home, across almost all age
 ### SAMUEL
 
     06 09 13
+    
+![](SamH-plot.svg)
+    
+The plot shows the proportion of time people spend on sports and recreation as opposed to education. Note that only people included in this plot are those who _are_ in education. All respondents were specified to have an age under 25, so the graph isn't clouded by the many ages that are not in education. 
+The graph shows that males between the 15-17 age bracket spend far more on recreational activites, since the values for these ages fall above the 0.5 line. As the age increases, the proportions through the ages fall together; reason for this could include and increase in difficulty relating to higher eduation.
+For females however, the proportion does not change much over time, perhaps due to female students being more motivated in school.
     
 ### SANDEEP
 
