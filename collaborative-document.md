@@ -18,6 +18,7 @@ title: "ST344 Lab 3: A collaborative document"
 - James Walsh
 - Harrison Wilde
 - Dana Penistone
+- Neel Sachania
 - (next name to be added here)
 
 (add your name to the above list when you have contributed your file)
@@ -208,6 +209,12 @@ It should be noted that there are more females who spent time on consumer purcha
 ### NEEL
 
     04 07 15
+    
+![Neel's graph of volunteering activity by sex vs age](NeelSachania-plot.svg)
+
+This plot shows how participation in volunteering activities in the USA varies for different ages. The graph is produced using data from the 2017 American Time Use Survey (ATUS), in which data has been collected to better understand how time is divided across different activities. The above graph shows the percentage of respondents, of different ages, separated by sex who had spent any time at all on volunteering activites. These include a range of activities such as performance, cultural, administrative, care and maintenance activities.   
+
+The graph shows, that the participation percentage for each sex spending any time on volunteering activities follows a similar trend up until the age of 60. From this age, the percentage of male participation in volunteering activities increases significantly, which may correspond to the age of retirement. The peak participation occurs at approximately 73 years of age for both males and females, where roughly 10% of both sexes participate in volunteering activities. It must be noted that the ages of respondents greater than or equal to 80 have been rounded to the ages of 80 or 85, making it less reliable for drawing conclusions. 
     
 ### NICOLE
 
