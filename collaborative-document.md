@@ -7,6 +7,7 @@ title: "ST344 Lab 3: A collaborative document"
 ## Authors
 
 - David Firth
+- Harrison Wilde
 - (next name to be added here)
 
 (add your name to the above list when you have contributed your file)
@@ -75,23 +76,17 @@ The graph shows how such participation increases from less than 10% of 20-year-o
 ### HARRISON
 
     05 15 16
- 
 
-![](HarrisonW-plot1.svg)
+![](HarrisonW-plot.svg)
 
-This first graph was generated using means calculated through aggregation of time spent by each age value on each of the two investigated activities: volunteering and working (corresponding to variables `15` and `16`). These findings were then plotted on an area graph and it can be seen that the average time spent volunteering doesn't seem to have any clear relationship with age, whilst work-related activities are clearly at a peak between around 20 and 60 years old which is what would be the expectation as these are fairly standard periods of life for someone to be working full time. The average time spent working during this peak period is around 200 minutes.
-
-It could be said that beyond around 60 years old, people do on average spend at least 10 or so minutes volunteering, implying a slight increase when compared to earlier years. Note that the two areas could also have been "stacked" on top of each other to show the overall time spent on the two activities by each subject age value, and this could perhaps be more informative in the latter years where the addition of more volunteering picks up some of the lost area in time spent working.
-
-![](HarrisonW-plot2.svg)
-
-Interestingly, when the variables are plotted using a similar methodology to the one followed by David, the two variables start to insinuate a potentially more complex relationship. The second graph depicts smoothed curves of the percentage of people at each age value who participate in the activity for at least some amount of time.
+Interestingly, when the variables are plotted using a similar methodology to the one followed by David, the two variables begin to insinuate a potentially more complex relationship. The graph depicts smoothed curves of the percentage of people at each age value who participate in each activity for at least some amount of time.
 
 The curve for volunteering related activities has notable increases around the ages of 20 and below, as well as beyond 60-65 which is a fairly standard retirement age. This could be attributed to young people, namely students and people yet to start working full time, having more time to volunteer. Similarly, older people who have retired will also have more time to volunteer.
 
-The percentage of people volunteering falls from around 7% to a low point of almost 3% in mid to late 20 year olds which could signify a significant loss of free time as people start families and careers at this age. It is also interesting to observe a bump in the mid-40s (also observable in time spent working, perhaps as people reach the middle of their life and feel pressured to contribute to something external, be it work or volunteering) followed by an even larger bump at ages beyond 65 where a height of around 10% of people volunteering is reached among assumed retirees.
+The percentage of people volunteering falls from around 7% to a low point of almost 3% in mid to late 20 year olds which could signify a significant loss of free time as people start families and careers at this age. It is also interesting to observe a bump in the mid-40's (also observable in time spent working, perhaps as people reach the middle of their life and feel pressured to contribute to something external, be it work or volunteering) followed by an even larger bump at ages beyond 65 where a height of around 10% of people volunteering is reached among assumed retirees.
 
-The general pattern of the data is similar when transformed in both of the ways plotted above; it is clear that the majority of time spent is on working and between the ages of 20's to 60's. It is unfortunate that the numbers of people volunteering and time spent volunteering is significantly lower than that of people working, but could easily have been forseen. The way in which people split their time does indeed suggest a conclusion of a weak relationship between people who work less having a higher probability of spending at least *some* time volunteering.
+The general pattern of the data is clear in that the majority of time spent is on working between the ages of 20's to 60's, as would be expected intuitively. It is unfortunate that the numbers of people volunteering and time spent volunteering is significantly lower than that of people working. Though the way in which people split their time does indeed suggest a conclusion of a weak relationship between people who work less having a higher probability of spending at least *some* time volunteering.
+
  
 ### JAMES
 
