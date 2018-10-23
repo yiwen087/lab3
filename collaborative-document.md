@@ -7,7 +7,7 @@ title: "ST344 Lab 3: A collaborative document"
 ## Authors
 
 - David Firth
-- (next name to be added here)
+- Reece Mears
 
 (add your name to the above list when you have contributed your file)
 
@@ -151,6 +151,12 @@ The graph shows how such participation increases from less than 10% of 20-year-o
 ### REECE
 
     09 10 12
+    
+![Reece's graph of extensive social activity vs age](ReeceM-plot.svg)
+
+The plot shows how likely different ages of both males and females are to spend more than eight hours per day on socialising, relaxing and leisure per day. The bands around each line show a 95% confidence interval for each of the fits. Time spent on each activity was recorded as part of the 2017 American Time Use Survey.
+
+From the graph, we can see a global trend of people being less likely to spend a quarter of their day socialising around the ages of 30-60; this is perhaps due to most people in this age bracket being employed. The most surprising conclusion to draw is that people over the age of 70 are more likely than not to spend at least 8 hours socialising (as the percentage for males and females exceeds 50%), and in fact by the age of 85, the graph suggests there is a 70% chance. This may be due to a smaller sample size, or rounding in the data, but the result does not seem to be anomalous. It is also interesting how sex does not appear to offer any new trends in the data: the overall trend for both curves is very similar, however that for men is consistently higher, especially for younger ages.
     
 ### RICHARD
 
