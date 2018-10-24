@@ -1,3 +1,4 @@
+
 ---
 title: "ST344 Lab 3: A collaborative document"
 ---
@@ -9,17 +10,22 @@ title: "ST344 Lab 3: A collaborative document"
 - David Firth
 - Denis Akkavim
 - Danius Backis
+- Luying Bai
 - Samuel Hine
 - David Hooton
+- Minwoo Kwon (Simon)
 - Jia Le Lian
+- Richard Mason
 - Reece Mears
+- Alexander Milanovic
+- Nathan Mullins
 - Dana Penistone
+- Neel Sachania
+- Niraj Shah
 - Daniel Timmers
 - James Walsh
 - Harrison Wilde
-- Dana Penistone
-- Yiwen Xu
-
+- Yiwen Xu
 (add your name to the above list when you have contributed your file)
 
 ## The contributions
@@ -42,6 +48,14 @@ The graph shows how such participation increases from less than 10% of 20-year-o
 ### ALEXANDER
 
     01 06 13
+    
+![Alexander's graph: sports, exercise and recreation vs. age](Alexander-plot.svg)
+
+The plot displayed above shows how the amount of time people spend on sports, exercise and recreation varies with age, as well as the influences that gender has on this relationship. The data used to generate the plot is from the American Time Use Survey compiled by the [Bureau of Labour Statistics](https://www.bls.gov/tus/), and can be downloaded [here](https://raw.githubusercontent.com/DavidFirth/lab3/master/atussum_2017.csv). The survey measures the amount of time people spend performing various activities, such as paid work, childcare, volunteering, and socialising.
+
+The plot shows that the time spent on sports, exercise and recreation peaks between the ages of 15 and 25 and decays as people get older. This could likely be due to the fact that people normally have more free time when they are young. When we look at the curves for male and female respondents separately, we see that men are more active than women when they are young, but then women are more active than men between the ages of 75 and 85. In fact, women at the age of 85 spend about 160% more time on sports, exercise and recreation than men of the same age. However, it should be noted that 571 respondents of the total of 10,223 are between the ages of 80 and 85, which represents a proportion of 5.4%, compared to the most abundant age group being the one between 35 and 40 representing a proportion of 9.8% of the total. The difference, although large, should not alone be a reason to discard our previous conclusion, since 5.4% is only slightly below 6.67%, which is the proportion of respondents each category would have if they were assigned randomly (for categories of 5 years).
+
+It is worth noting that the data for ages above 80 is aggregated to be either 80 or 85, most likely due to the fact that less people in that age range participated in the survey. Despite this, we do not expect that this will impact on our results, as we don't require the resolution of the age data to be 1 year.
 
 ### BAIYUN
 
@@ -173,6 +187,16 @@ It should be noted that there are more females who spent time on consumer purcha
 
     06 08 15
     
+![Luying's graph of Volunteer activities vs age and sex](LuyingB-plot.svg)
+    
+This plot shows how participation in volunteer activities in the USA is different at different ages.  The graph is based on data from the 2017 American Time Use Survey, in which respondents recorded how they spent all of their time on the day before they were interviewed.
+    
+The above graph shows the percentage of respondents, at different ages and genders, who reported that they had spent any time at all on religious and spiritual activity on the day in question.
+
+The graph shows that for female respondents, the proportion of time spent on volunteer activities remains in the same level at around 13% except for the age 30s, where illustrates a small, drop, decreasing to 8%. Similarly, the data of male participants also witness a drop in their 30s, from 9% to 5%. However, different from the data of female participants, there is a significant peak of the percentage of time spent by male respondents on volunteer activities, rising sharply to 17% and then drop to 4%.
+    
+In conclusion, for most of the ages, female participants spend more time on volunteer activities than male participant except for the men st the age of 72.
+    
 ### MACIEJ
 
     12 16 18
@@ -197,6 +221,13 @@ It should be noted that there are more females who spent time on consumer purcha
 
     04 08 12
     
+![Minwoo's plot](MinK-plot.svg)
+    
+   The graph above represents how the change of age and the frequency of usage of professional caring are correlated. The data used in this graph was extracted from the 2017 American Time Use Survey. The participants of this study were asked to take a record of the length of hours that they have been taken care by professional care services. Not only that, but also the age of participants varies from teenagers to 80s.
+
+  To explain the plot more explicitly, the green line represents men hiring professional caring, the red line represents women hiring care, and the violet line in the middle shows the average frequency of using caring service. One thing in common between men and women is that the older they are, the more likely for them to hire professional caring service for themselves. However, it is easy to notice that the rate of change of the graph between men and women differ. To be concise, according to the graph, as women get older, it is less likely for them to have professional health care. On the other hand, the age of men and the need of health care is proportional. As a result, the average percentage of professional health care is nearly proportional to age.
+
+    
 ### NAIXUAN
 
     08 14 16
@@ -204,10 +235,35 @@ It should be noted that there are more females who spent time on consumer purcha
 ### NATHAN
 
     11 12 15
+
+![Nathan's graph of time spent on socialising, relaxing and leisure vs age](NathanM-plot.svg)
+
+This graph shows how the amount of time spent on socialising, relaxing and leisure (SR&L) in the USA differs depending on whether a person undertakes volunteer activities. The data used to produce this graphic is from the 2017 _American Time Use Survey_, in which respondents were asked to record which activities they had undertaken the previous day, and for how long. 
+
+\
+From the graph, regardless of gender, respondents who spent any amount of time volunteering on a given day spent noticeably less time on SR&L than those not volunteering.
+
+\
+Looking at males, the amount of time spent by volunteers on SR&L, on a given day, follows a very similar trend to that of non-volunteers. In fact, it appears the trend for time spent on SR&L by volunteers is, for the most part, a scaled down version of the trend for non-volunteers. The only noticeable difference is for males over 70. 
+\
+For males over 70 the amount of time spent by volunteers on SR&L deviates from the trend observed in non-volunteers; as age increases there is a decrease in the amount of time spent by volunteering males on SR&L. A possible explanation is the wide 95% confidence interval for volunteers over 70, which suggests that only a small proportion of respondents were males over the age of 70 who engaged in volunteering on a given day.
+
+\
+Looking at females, there is no overlap of the 95% confidence intervals for time spent on SR&L by volunteers and non-volunteers. This means we can confidently conclude that, across all ages, there is a statistically significant difference between the time spent on SR&L, on a given day, by volunteers and non-volunteers (Note that this does not infer that since male volunteers and non-volunteers overlap there isn't a statistically significant difference).
+\
+The trend for female volunteers does not match that of the female non-volunteers as closely as the trends for males does. This is particularly true for females under the age of 30. The 95% confidence interval for volunteering females under 30 is much wider than that of non-volunteers. This suggests that, out of all female respondents, relatively few of them under the age of 30 were engaged in volunteering on a given day.
+
+
     
 ### NEEL
 
     04 07 15
+    
+![Neel's graph of volunteering activity by sex vs age](NeelSachania-plot.svg)
+
+This plot shows how participation in volunteering activities in the USA varies for different ages. The graph is produced using data from the 2017 American Time Use Survey (ATUS), in which data has been collected to better understand how time is divided across different activities. The above graph shows the percentage of respondents, of different ages, separated by sex who had spent any time at all on volunteering activites. These include a range of activities such as performance, cultural, administrative, care and maintenance activities.   
+
+The graph shows, that the participation percentage for each sex spending any time on volunteering activities follows a similar trend up until the age of 60. From this age, the percentage of male participation in volunteering activities increases significantly, which may correspond to the age of retirement. The peak participation occurs at approximately 73 years of age for both males and females, where roughly 10% of both sexes participate in volunteering activities. It must be noted that the ages of respondents greater than or equal to 80 have been rounded to the ages of 80 or 85, making it less reliable for drawing conclusions. 
     
 ### NICOLE
 
@@ -217,9 +273,11 @@ It should be noted that there are more females who spent time on consumer purcha
 
     03 06 13
     
-### OPEOLORUN
+![](NirajSplot.svg)
 
-    05 16 18
+This plot investigates how time spent looking after their household members in the USA varies by age. The red plot shows this relationship for females, and the blue plot shows this relationship for males.
+
+The plot shows that the relationship between time spent looking after household members and age is similar for both males and females. This is, that the amount of time looking after household members increases as age increases to a certain point, and then the time spent looking after household members decreases. We can also clearly interpret from the plot that from ages 15 to 50, females generally spend more time looking after household members than males. However, once ages get to 50 or order, the time spent looking after household members is effectively the same for both females and males. It should not come as a surprise that females spend more time daily in looking after household members than males. The plot also confirms what we should expect when people get older and closer to retirement, as their body is more frail and hence they are unlikely to spend as much time looking after their household members.
     
 ### REECE
 
@@ -234,6 +292,13 @@ From the graph, we can see a global trend of people being less likely to spend a
 ### RICHARD
 
     04 11 12
+
+![Richard's Graph of Socializing, Relaxing and Leisure vs Age](RichardM-plot.svg)
+
+The graph depicts the relationship between the age of the survey participant and the average time spent on relaxing, socializing and leisure, which is divided into male and female.
+The graph shows a contrasting relationship between men and women before the age of 20. However, the standard errors are larger for ages below 20, so these average values may not be correct. Furthermore, the sample for these ages may have been taken from people who are in work, and not students, who would have a higher average time for socializing especially. The graph's minimum points are at age 32 for women and 37 for men. One can deduce that these ages for men and women spent the least amount of time on socializing, relaxing and leisure because this could be the age when people decide to start a family, as well as be the busiest with work, with both of these reducing the amount of time a person can spend socializing, relaxing and time on leisure. There is an upward global trend after this, perhaps suggesting that the children of some participants are older and require less time to tend to.
+
+We can observe that men seem to spend more time on these activities than women on average, for the majority of the ages, which has many interpretations, although we cannot draw conclusions.
     
 ### SAMUEL
 
