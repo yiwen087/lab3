@@ -198,7 +198,7 @@ It should be noted that there are more females who spent time on consumer purcha
 
     04 08 12
     
-    ![Minwoo's plot](./MinK-plot.svg)
+    ![Minwoo's plot](MinK-plot.svg)
     
    The graph above represents how the change of age and the frequency of usage of professional caring are correlated. The data used in this graph was extracted from the 2017 American Time Use Survey. The participants of this study were asked to take a record of the length of hours that they have been taken care by professional care services. Not only that, but also the age of participants varies from teenagers to 80s.
 
