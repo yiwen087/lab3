@@ -9,16 +9,17 @@ title: "ST344 Lab 3: A collaborative document"
 - David Firth
 - Denis Akkavim
 - Danius Backis
+- Luying Bai
 - Samuel Hine
 - David Hooton
 - Jia Le Lian
 - Reece Mears
+- Alexander Milanovic
 - Dana Penistone
+- Neel Sachania
 - Daniel Timmers
 - James Walsh
 - Harrison Wilde
-- Dana Penistone
-- Alexander Milanovic
 - (next name to be added here)
 
 (add your name to the above list when you have contributed your file)
@@ -182,6 +183,13 @@ It should be noted that there are more females who spent time on consumer purcha
 
     06 08 15
     
+    ![Luying's graph of Volunteer activities vs age and sex](LuyingB-plot.svg)
+    
+    This plot shows how participation in volunteer activities in the USA is different at different ages.  The graph is based on data from the 2017 American Time Use Survey, in which respondents recorded how they spent all of their time on the day before they were interviewed.
+    The above graph shows the percentage of respondents, at different ages and genders, who reported that they had spent any time at all on religious and spiritual activity on the day in question.
+    The graph shows that for female respondents, the proportion of time spent on volunteer activities remains in the same level at around 13% except for the age 30s, where illustrates a small, drop, decreasing to 8%. Similarly, the data of male participants also witness a drop in their 30s, from 9% to 5%. However, different from the data of female participants, there is a significant peak of the percentage of time spent by male respondents on volunteer activities, rising sharply to 17% and then drop to 4%.
+    In conclusion, for most of the ages, female participants spend more time on volunteer activities than male participant except for the men st the age of 72.
+    
 ### MACIEJ
 
     12 16 18
@@ -218,6 +226,12 @@ It should be noted that there are more females who spent time on consumer purcha
 
     04 07 15
     
+![Neel's graph of volunteering activity by sex vs age](NeelSachania-plot.svg)
+
+This plot shows how participation in volunteering activities in the USA varies for different ages. The graph is produced using data from the 2017 American Time Use Survey (ATUS), in which data has been collected to better understand how time is divided across different activities. The above graph shows the percentage of respondents, of different ages, separated by sex who had spent any time at all on volunteering activites. These include a range of activities such as performance, cultural, administrative, care and maintenance activities.   
+
+The graph shows, that the participation percentage for each sex spending any time on volunteering activities follows a similar trend up until the age of 60. From this age, the percentage of male participation in volunteering activities increases significantly, which may correspond to the age of retirement. The peak participation occurs at approximately 73 years of age for both males and females, where roughly 10% of both sexes participate in volunteering activities. It must be noted that the ages of respondents greater than or equal to 80 have been rounded to the ages of 80 or 85, making it less reliable for drawing conclusions. 
+    
 ### NICOLE
 
     02 06 11
@@ -225,10 +239,6 @@ It should be noted that there are more females who spent time on consumer purcha
 ### NIRAJ
 
     03 06 13
-    
-### OPEOLORUN
-
-    05 16 18
     
 ### REECE
 
