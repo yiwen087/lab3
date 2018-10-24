@@ -26,6 +26,7 @@ title: "ST344 Lab 3: A collaborative document"
 - James Walsh
 - Harrison Wilde
 - Yiwen Xu
+- Baiyun Yuan
 (add your name to the above list when you have contributed your file)
 
 ## The contributions
@@ -60,8 +61,20 @@ It is worth noting that the data for ages above 80 is aggregated to be either 80
 ### BAIYUN
 
     08 13 18    
+    
+ ![BAIYUN's graph of sports, exercise & recreation vs age based on age](BAIYUN-plot.svg)
+ 
+This plot shows that the percentage of individuals who participated in sports, exercise and recreation at different age and gender,using data from the USA, based on data from the 2017 American Time Use Survey(compile by the Bureau of Labour Statistics), in which respondents recorded how they spent all of their time on the day before they were interviewed.This Survey provides the structure of time alloction for people in different age and gender performing in various activities such as Socialising, Volunteering , Travelling and Childcare.
 
-### BENJAMIN A
+The above graph shows the percentage of respondents, at different ages and gender, who reported that they had spent any time at all on sports, exercise, and recreation the day in question.
+
+When we ignore the gender influence,for the general trend,the graph is fluctuating after the initial plunge, which started from over 35% of participants aged 15 to less than 20% of participants aged 23 to 30. This may be due to the fact that we have more energy and spare time when we were young. It then fluctuated around 20 percentage with age, with the bottom point occurring around 25, late 50, and the oldest survey participants. The relative peak appeared in participants aged about 35 and nearly 68. In conclusion, younger people engage more in sports, exercise and recreation, especially for those aged 15 to 20 teenagers.
+
+Consider the gender influence,we can observe from two different curves that men are generally more actively engaging in sports, exercise and recreation than women except over 80. It should be noted that 571 respondents aged either 80 or 85 are recorded in the total of 10233 respondents, which occupys nearly 5% in total, therefore it is also a dominant part and should be considered into conclusion. There is enough evidence to show that 85-year-old women spend nearly twice as much time on sports, exercise and recreation as 85-year-old men.
+
+It also should be noted that the data for the very oldest respondents,the data for ages above 80 is only recorded participants aged 85 and this graph is lack of the age data between 81 and 84. Therefore, it is less reliable than at other ages, partly because of small numbers and partly because of the rounded recording of older ages in the published ATUS data. But, this doesn't affect the conclusion made above. 
+ 
+ ### BENJAMIN A
 
     01 05 08
      
