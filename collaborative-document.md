@@ -16,6 +16,7 @@ title: "ST344 Lab 3: A collaborative document"
 - Jia Le Lian
 - Reece Mears
 - Alexander Milanovic
+- Nathan Mullins
 - Dana Penistone
 - Neel Sachania
 - Niraj Shah
@@ -233,6 +234,25 @@ In conclusion, for most of the ages, female participants spend more time on volu
 ### NATHAN
 
     11 12 15
+
+![Nathan's graph of time spent on socialising, relaxing and leisure vs age](NathanM-plot.svg)
+
+This graph shows how the amount of time spent on socialising, relaxing and leisure (SR&L) in the USA differs depending on whether a person undertakes volunteer activities. The data used to produce this graphic is from the 2017 _American Time Use Survey_, in which respondents were asked to record which activities they had undertaken the previous day, and for how long. 
+
+\
+From the graph, regardless of gender, respondents who spent any amount of time volunteering on a given day spent noticeably less time on SR&L than those not volunteering.
+
+\
+Looking at males, the amount of time spent by volunteers on SR&L, on a given day, follows a very similar trend to that of non-volunteers. In fact, it appears the trend for time spent on SR&L by volunteers is, for the most part, a scaled down version of the trend for non-volunteers. The only noticeable difference is for males over 70. 
+\
+For males over 70 the amount of time spent by volunteers on SR&L deviates from the trend observed in non-volunteers; as age increases there is a decrease in the amount of time spent by volunteering males on SR&L. A possible explanation is the wide 95% confidence interval for volunteers over 70, which suggests that only a small proportion of respondents were males over the age of 70 who engaged in volunteering on a given day.
+
+\
+Looking at females, there is no overlap of the 95% confidence intervals for time spent on SR&L by volunteers and non-volunteers. This means we can confidently conclude that, across all ages, there is a statistically significant difference between the time spent on SR&L, on a given day, by volunteers and non-volunteers (Note that this does not infer that since male volunteers and non-volunteers overlap there isn't a statistically significant difference).
+\
+The trend for female volunteers does not match that of the female non-volunteers as closely as the trends for males does. This is particularly true for females under the age of 30. The 95% confidence interval for volunteering females under 30 is much wider than that of non-volunteers. This suggests that, out of all female respondents, relatively few of them under the age of 30 were engaged in volunteering on a given day.
+
+
     
 ### NEEL
 
