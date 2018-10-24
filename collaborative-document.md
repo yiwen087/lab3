@@ -9,6 +9,7 @@ title: "ST344 Lab 3: A collaborative document"
 - David Firth
 - Denis Akkavim
 - Danius Backis
+- Luying Bai
 - Samuel Hine
 - David Hooton
 - Jia Le Lian
@@ -173,6 +174,13 @@ It should be noted that there are more females who spent time on consumer purcha
 
     06 08 15
     
+    ![Luying's graph of Volunteer activities vs age and sex](LuyingB-plot.svg)
+    
+    This plot shows how participation in volunteer activities in the USA is different at different ages.  The graph is based on data from the 2017 American Time Use Survey, in which respondents recorded how they spent all of their time on the day before they were interviewed.
+    The above graph shows the percentage of respondents, at different ages and genders, who reported that they had spent any time at all on religious and spiritual activity on the day in question.
+    The graph shows that for female respondents, the proportion of time spent on volunteer activities remains in the same level at around 13% except for the age 30s, where illustrates a small, drop, decreasing to 8%. Similarly, the data of male participants also witness a drop in their 30s, from 9% to 5%. However, different from the data of female participants, there is a significant peak of the percentage of time spent by male respondents on volunteer activities, rising sharply to 17% and then drop to 4%.
+    In conclusion, for most of the ages, female participants spend more time on volunteer activities than male participant except for the men st the age of 72.
+    
 ### MACIEJ
 
     12 16 18
@@ -216,10 +224,6 @@ It should be noted that there are more females who spent time on consumer purcha
 ### NIRAJ
 
     03 06 13
-    
-### OPEOLORUN
-
-    05 16 18
     
 ### REECE
 
