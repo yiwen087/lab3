@@ -1,3 +1,4 @@
+
 ---
 title: "ST344 Lab 3: A collaborative document"
 ---
@@ -23,6 +24,7 @@ title: "ST344 Lab 3: A collaborative document"
 - Daniel Timmers
 - James Walsh
 - Harrison Wilde
+- Richard Mason
 - (next name to be added here)
 
 (add your name to the above list when you have contributed your file)
@@ -291,6 +293,13 @@ From the graph, we can see a global trend of people being less likely to spend a
 ### RICHARD
 
     04 11 12
+
+![Richard's Graph of Socializing, Relaxing and Leisure vs Age](RichardM-plot.svg)
+
+The graph depicts the relationship between the age of the survey participant and the average time spent on relaxing, socializing and leisure, which is divided into male and female.
+The graph shows a contrasting relationship between men and women before the age of 20. However, the standard errors are larger for ages below 20, so these average values may not be correct. Furthermore, the sample for these ages may have been taken from people who are in work, and not students, who would have a higher average time for socializing especially. The graph's minimum points are at age 32 for women and 37 for men. One can deduce that these ages for men and women spent the least amount of time on socializing, relaxing and leisure because this could be the age when people decide to start a family, as well as be the busiest with work, with both of these reducing the amount of time a person can spend socializing, relaxing and time on leisure. There is an upward global trend after this, perhaps suggesting that the children of some participants are older and require less time to tend to.
+
+We can observe that men seem to spend more time on these activities than women on average, for the majority of the ages, which has many interpretations, although we cannot draw conclusions.
     
 ### SAMUEL
 
