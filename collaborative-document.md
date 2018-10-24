@@ -18,7 +18,7 @@ title: "ST344 Lab 3: A collaborative document"
 - James Walsh
 - Harrison Wilde
 - Dana Penistone
-- (next name to be added here)
+- Yiwen Xu
 
 (add your name to the above list when you have contributed your file)
 
@@ -268,7 +268,12 @@ For females however, the proportion does not change much over time, perhaps due 
 ### YIWEN
 
     02 10 14
-    
+
+![](Yiwen-plot.svg)
+
+The above graph is based on the data drawn from 2017 American Time Use Survey. It compares the time spent of individual on household activities per day between females and males for the age ranges from around 15 to 85. First of all, the gap between two lines shows that in general, women do more housework than men at each range of age. Besides, the sexual difference is relatively narrow for people who are under 25, since most people are still students at that age range (15-25). With the growth of age, people tend to spend more time on housework. There is a decreasing trend from 70, which might be due to some physical reasons. Lastly, since majority participants are from 20 to 60, more data will be needed to get the conclusion of people who are under 20 and over 70.
+
+
 ### YUE
 
     03 12 18
