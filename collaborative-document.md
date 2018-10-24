@@ -18,6 +18,7 @@ title: "ST344 Lab 3: A collaborative document"
 - James Walsh
 - Harrison Wilde
 - Dana Penistone
+- Minwoo Kwon (Simon)
 - (next name to be added here)
 
 (add your name to the above list when you have contributed your file)
@@ -196,6 +197,13 @@ It should be noted that there are more females who spent time on consumer purcha
 ### MINWOO
 
     04 08 12
+    
+    ![Simon's plot about age vs health-care](MinK-plot.svg)
+    
+    The graph above represents how the change of age and the frequency of usage of professional caring are correlated. The data used in this graph was extracted from the 2017 American Time Use Survey. The participants of this study were asked to take a record of the length of hours that they have been taken care by professional care services. Not only that, but also the age of participants varies from teenagers to 80s.
+
+  To explain the plot more explicitly, the green line represents men hiring professional caring, the red line represents women hiring care, and the violet line in the middle shows the average frequency of using caring service. One thing in common between men and women is that the older they are, the more likely for them to hire professional caring service for themselves. However, it is easy to notice that the rate of change of the graph between men and women differ. To be concise, according to the graph, as women get older, it is less likely for them to have professional health care. On the other hand, the age of men and the need of health care is proportional. As a result, the average percentage of professional health care is nearly proportional to age.
+
     
 ### NAIXUAN
 
