@@ -183,7 +183,7 @@ It should be noted that there are more females who spent time on consumer purcha
 
     06 08 15
     
-    ![Luying's graph of Volunteer activities vs age and sex](LuyingB-plot.svg)
+![Luying's graph of Volunteer activities vs age and sex](LuyingB-plot.svg)
     
     This plot shows how participation in volunteer activities in the USA is different at different ages.  The graph is based on data from the 2017 American Time Use Survey, in which respondents recorded how they spent all of their time on the day before they were interviewed.
     The above graph shows the percentage of respondents, at different ages and genders, who reported that they had spent any time at all on religious and spiritual activity on the day in question.
