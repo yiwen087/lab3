@@ -9,16 +9,18 @@ title: "ST344 Lab 3: A collaborative document"
 - David Firth
 - Denis Akkavim
 - Danius Backis
+- Luying Bai
 - Samuel Hine
 - David Hooton
+- Minwoo Kwon (Simon)
 - Jia Le Lian
 - Reece Mears
+- Alexander Milanovic
 - Dana Penistone
+- Neel Sachania
 - Daniel Timmers
 - James Walsh
 - Harrison Wilde
-- Dana Penistone
-- Minwoo Kwon (Simon)
 - (next name to be added here)
 
 (add your name to the above list when you have contributed your file)
@@ -43,6 +45,14 @@ The graph shows how such participation increases from less than 10% of 20-year-o
 ### ALEXANDER
 
     01 06 13
+    
+![Alexander's graph: sports, exercise and recreation vs. age](Alexander-plot.svg)
+
+The plot displayed above shows how the amount of time people spend on sports, exercise and recreation varies with age, as well as the influences that gender has on this relationship. The data used to generate the plot is from the American Time Use Survey compiled by the [Bureau of Labour Statistics](https://www.bls.gov/tus/), and can be downloaded [here](https://raw.githubusercontent.com/DavidFirth/lab3/master/atussum_2017.csv). The survey measures the amount of time people spend performing various activities, such as paid work, childcare, volunteering, and socialising.
+
+The plot shows that the time spent on sports, exercise and recreation peaks between the ages of 15 and 25 and decays as people get older. This could likely be due to the fact that people normally have more free time when they are young. When we look at the curves for male and female respondents separately, we see that men are more active than women when they are young, but then women are more active than men between the ages of 75 and 85. In fact, women at the age of 85 spend about 160% more time on sports, exercise and recreation than men of the same age. However, it should be noted that 571 respondents of the total of 10,223 are between the ages of 80 and 85, which represents a proportion of 5.4%, compared to the most abundant age group being the one between 35 and 40 representing a proportion of 9.8% of the total. The difference, although large, should not alone be a reason to discard our previous conclusion, since 5.4% is only slightly below 6.67%, which is the proportion of respondents each category would have if they were assigned randomly (for categories of 5 years).
+
+It is worth noting that the data for ages above 80 is aggregated to be either 80 or 85, most likely due to the fact that less people in that age range participated in the survey. Despite this, we do not expect that this will impact on our results, as we don't require the resolution of the age data to be 1 year.
 
 ### BAIYUN
 
@@ -174,6 +184,13 @@ It should be noted that there are more females who spent time on consumer purcha
 
     06 08 15
     
+![Luying's graph of Volunteer activities vs age and sex](LuyingB-plot.svg)
+    
+    This plot shows how participation in volunteer activities in the USA is different at different ages.  The graph is based on data from the 2017 American Time Use Survey, in which respondents recorded how they spent all of their time on the day before they were interviewed.
+    The above graph shows the percentage of respondents, at different ages and genders, who reported that they had spent any time at all on religious and spiritual activity on the day in question.
+    The graph shows that for female respondents, the proportion of time spent on volunteer activities remains in the same level at around 13% except for the age 30s, where illustrates a small, drop, decreasing to 8%. Similarly, the data of male participants also witness a drop in their 30s, from 9% to 5%. However, different from the data of female participants, there is a significant peak of the percentage of time spent by male respondents on volunteer activities, rising sharply to 17% and then drop to 4%.
+    In conclusion, for most of the ages, female participants spend more time on volunteer activities than male participant except for the men st the age of 72.
+    
 ### MACIEJ
 
     12 16 18
@@ -198,7 +215,7 @@ It should be noted that there are more females who spent time on consumer purcha
 
     04 08 12
     
-    ![Minwoo's plot](MinK-plot.svg)
+![Minwoo's plot](MinK-plot.svg)
     
    The graph above represents how the change of age and the frequency of usage of professional caring are correlated. The data used in this graph was extracted from the 2017 American Time Use Survey. The participants of this study were asked to take a record of the length of hours that they have been taken care by professional care services. Not only that, but also the age of participants varies from teenagers to 80s.
 
@@ -217,6 +234,12 @@ It should be noted that there are more females who spent time on consumer purcha
 
     04 07 15
     
+![Neel's graph of volunteering activity by sex vs age](NeelSachania-plot.svg)
+
+This plot shows how participation in volunteering activities in the USA varies for different ages. The graph is produced using data from the 2017 American Time Use Survey (ATUS), in which data has been collected to better understand how time is divided across different activities. The above graph shows the percentage of respondents, of different ages, separated by sex who had spent any time at all on volunteering activites. These include a range of activities such as performance, cultural, administrative, care and maintenance activities.   
+
+The graph shows, that the participation percentage for each sex spending any time on volunteering activities follows a similar trend up until the age of 60. From this age, the percentage of male participation in volunteering activities increases significantly, which may correspond to the age of retirement. The peak participation occurs at approximately 73 years of age for both males and females, where roughly 10% of both sexes participate in volunteering activities. It must be noted that the ages of respondents greater than or equal to 80 have been rounded to the ages of 80 or 85, making it less reliable for drawing conclusions. 
+    
 ### NICOLE
 
     02 06 11
@@ -224,10 +247,6 @@ It should be noted that there are more females who spent time on consumer purcha
 ### NIRAJ
 
     03 06 13
-    
-### OPEOLORUN
-
-    05 16 18
     
 ### REECE
 
